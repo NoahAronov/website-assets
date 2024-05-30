@@ -34,3 +34,18 @@
 
 # hidesidebar = true
 
+title = "test title"
+author = "test author"
+description = "test desc"
+profilePicture = "images/profile.png"
+copyright = "2023-{{ YEAR }}"
+
+[socialIcons]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://linkedin.com"
+
+[socialIcons]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:noah@noahsec.pro"
