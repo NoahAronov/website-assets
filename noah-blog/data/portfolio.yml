@@ -1,0 +1,34 @@
+portfolioitems:
+  # portfolio category
+  - title: Home Lab
+    description: 'Including practice with Hardware, Networking, Virtualization, DevOps, and Cloud.'
+    portfolioitem:
+      - name: Home Lab Overview
+        image: '/images/portfolio/code.jpg'
+        link: https://noahsec.pro/
+        linktext: 'View more details'
+        description: 'This area consolidates and summarizes the pages that explain details about the Home Lab.'
+        #tags:
+         # - Tag 1
+          #- Tag 2
+        status: 'Ongoing'
+        start: '2023'
+        end: '2024'
+        #authors:
+          #- lxndrblz
+          #- alexanderdavide
+  # portfolio category
+  - title: Projects
+    description: 'Including practice with IAM, Web & Exploit Development, Configuration-as-Code, and Offensive Security Engineering.'
+    portfolioitem:
+      - name: Portfolio Website
+        image: '/images/portfolio/code.jpg'
+        link: https://noahsec.pro/
+        linktext: 'View more details'
+        description: 'Uses Hugo static site generator (powered by Go), Cloudflare Pages (static web hosting), Cloudflare DNS, Cloudflare Email Routing, Cloudflare WAF (Web Firewall with Logging), and Cloudflare Workers (automatic CI/CD build deployment).'
+        #tags:
+         # - Tag 1
+         # - Tag 2
+        status: 'Ongoing'
+        start: '2023'
+        end: '2024'
