@@ -38,3 +38,89 @@ pygmentsCodefencesGuessSyntax = true
       icon = "fas fa-envelope"
       title = "e-mail"
       url = "mailto:noah@noahsec.pro"
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 100
+    url = "/"
+
+  [[menu.main]]
+    name = "Portfolio"
+    identifier = "portfolio"
+    weight = 200
+
+  [[menu.main]]
+    name = "Projects & Home Lab"
+    identifier = "projects"
+    weight = 210
+    url = "/projects/"
+    parent = "portfolio"
+
+  [[menu.main]]
+    name = "Writing & Publications"
+    identifier = "writing"
+    weight = 220
+    url = "/writing/"
+    parent = "portfolio"
+
+  [[menu.main]]
+    name = "Episodes & Presentations"
+    identifier = "presentations"
+    weight = 230
+    url = "/presentations/"
+    parent = "portfolio"
+
+  [[menu.main]]
+    name = "Education"
+    identifier = "education"
+    weight = 300
+
+  [[menu.main]]
+    name = "Universities & Programs"
+    identifier = "academic"
+    weight = 310
+    url = "/academic/"
+    parent = "education"
+
+  [[menu.main]]
+    name = "Certifications & Certificates"
+    identifier = "certifications"
+    weight = 320
+    url = "/certifications/"
+    parent = "education"
+
+  [[menu.main]]
+    name = "Courses & Learning Paths"
+    identifier = "courses"
+    weight = 330
+    url = "/courses/"
+    parent = "education"
+
+  [[menu.main]]
+    name = "Research Areas"
+    identifier = "research"
+    weight = 340
+    url = "/research/"
+    parent = "education"
+
+  [[menu.main]]
+    name = "Profile"
+    identifier = "profile"
+    weight = 400
+
+  [[menu.main]]
+    name = "Professional Experience"
+    identifier = "experience"
+    weight = 410
+    url = "/experience/"
+    parent = "profile"
+
+  [[menu.main]]
+    name = "Full Resume"
+    identifier = "resume"
+    weight = 420
+    url = "/resume/"
+    parent = "profile"
