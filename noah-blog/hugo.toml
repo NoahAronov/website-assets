@@ -50,29 +50,29 @@ pygmentsCodefencesGuessSyntax = true
 
   [[menu.main]]
     name = "Portfolio"
-    identifier = "portfolio"
+    identifier = "projects"
     weight = 200
 
   [[menu.main]]
     name = "Home Lab & Projects"
-    identifier = "projects"
+    identifier = "portfolio"
     weight = 210
-    url = "/projects/"
-    parent = "portfolio"
+    url = "/portfolio/"
+    parent = "projects"
 
   [[menu.main]]
     name = "Writing & Publications"
     identifier = "writing"
     weight = 220
     url = "/writing/"
-    parent = "portfolio"
+    parent = "projects"
 
   [[menu.main]]
     name = "Episodes & Presentations"
     identifier = "presentations"
     weight = 230
     url = "/presentations/"
-    parent = "portfolio"
+    parent = "projects"
 
   [[menu.main]]
     name = "Education"
