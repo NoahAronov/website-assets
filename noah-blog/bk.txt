@@ -20,12 +20,12 @@ pygmentsCodefencesGuessSyntax = true
   profilePicture = "images/profile.png"
   copyright = "2023-{{ YEAR }}"
 
-    [params.socialIcons]
+    [[socialIcons]]
       icon = "fab fa-linkedin"
       title = "LinkedIn"
       url = "https://linkedin.com"
 
-    [params.socialIcons]
+    [[socialIcons]]
       icon = "fas fa-envelope"
       title = "e-mail"
       url = "mailto:noah@noahsec.pro"
