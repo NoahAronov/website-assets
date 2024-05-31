@@ -28,7 +28,7 @@ pygmentsCodefencesGuessSyntax = true
   profilePicture = "images/profile.png"
   copyright = "Noah Aronov 2023-{{ YEAR }}"
   reversepagetitle = true
-  mainSections = [""]
+  #mainSections = [""]
 
     [[params.socialIcons]]
       icon = "fab fa-linkedin"
