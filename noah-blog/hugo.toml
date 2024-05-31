@@ -93,17 +93,24 @@ pygmentsCodefencesGuessSyntax = true
     url = "/certifications/"
     parent = "education"
 
+[[menu.main]]
+    name = "Honors & Awards"
+    identifier = "honors"
+    weight = 330
+    url = "/honors/"
+    parent = "education"  
+
   [[menu.main]]
     name = "Courses & Learning Paths"
     identifier = "courses"
-    weight = 330
+    weight = 340
     url = "/courses/"
     parent = "education"
 
   [[menu.main]]
     name = "Research Areas"
     identifier = "research"
-    weight = 340
+    weight = 350
     url = "/research/"
     parent = "education"
 
