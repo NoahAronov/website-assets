@@ -26,15 +26,15 @@ pygmentsCodefencesGuessSyntax = true
   and accomplishments.
   """
   profilePicture = "images/profile.png"
-  copyright = "2023-{{ YEAR }}"
+  copyright = "Noah Aronov 2023-{{ YEAR }}"
   reversepagetitle = true
 
-    [[socialIcons]]
+    [[params.socialIcons]]
       icon = "fab fa-linkedin"
       title = "LinkedIn"
       url = "https://linkedin.com"
 
-    [[socialIcons]]
+    [[params.socialIcons]]
       icon = "fas fa-envelope"
       title = "e-mail"
       url = "mailto:noah@noahsec.pro"
