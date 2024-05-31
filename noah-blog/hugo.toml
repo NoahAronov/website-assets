@@ -1,4 +1,4 @@
-baseURL = 
+baseURL = "https://noahsec.pro"
 languageCode = "en-us"
 title = "NoahSec"
 theme = "anatole"
@@ -19,18 +19,18 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = ""
 
 [params]
-title = "test title"
-author = "test author"
-description = "test desc"
-profilePicture = "images/profile.png"
-copyright = "2023-{{ YEAR }}"
+  title = "test title"
+  author = "test author"
+  description = "test desc"
+  profilePicture = "images/profile.png"
+  copyright = "2023-{{ YEAR }}"
 
-[[socialIcons]]
-icon = "fab fa-linkedin"
-title = "LinkedIn"
-url = "https://linkedin.com"
+    [socialIcons]
+      icon = "fab fa-linkedin"
+      title = "LinkedIn"
+      url = "https://linkedin.com"
 
-[[socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:noah@noahsec.pro"
+    [socialIcons]
+      icon = "fas fa-envelope"
+      title = "e-mail"
+      url = "mailto:noah@noahsec.pro"
