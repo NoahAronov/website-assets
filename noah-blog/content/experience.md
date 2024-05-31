@@ -12,33 +12,33 @@ aliases = ["experience"]
 
 ### Professional Experience
 
-**Senior Administrator** 
-Head of Gamemaster Team
-Head of Training Team
+**Senior Administrator** \
+Head of Gamemaster Team \
+Head of Training Team \
 @ Hadron (Volunteer)
 
-**Assistant Head Sushi Chef**
-Head Sushi Chef Trainer
+**Assistant Head Sushi Chef** \
+Head Sushi Chef Trainer \
 @ Zanmai
 
 ### Personal Experience
 
-**Security Engineer**
-@ Home Lab
-@ Projects
+**Security Engineer** \
+@ Home Lab \
+@ Projects 
 
-**Security CTF Player**
-@ TryHackme
-@ Hack the Box
-@ Lakerta
+**Security CTF Player** \
+@ TryHackme \
+@ Hack the Box \
+@ Lakerta 
 
-**Security Writer**
-@ Medium
+**Security Writer** \
+@ Medium 
 
-**Security Student**
-@ Academics
-@ Certifications
+**Security Student** \
+@ Academics \
+@ Certifications \
 @ Extra Courses
 
-**Security and Technology Researcher**
+**Security and Technology Researcher** \
 @ [Redacted] (Volunteer)
