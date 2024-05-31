@@ -28,6 +28,7 @@ pygmentsCodefencesGuessSyntax = true
   profilePicture = "images/profile.png"
   copyright = "Noah Aronov 2023-{{ YEAR }}"
   reversepagetitle = true
+  mainSections = [""]
 
     [[params.socialIcons]]
       icon = "fab fa-linkedin"
@@ -48,12 +49,12 @@ pygmentsCodefencesGuessSyntax = true
     url = "/"
 
   [[menu.main]]
-    name = "Portfolio"
+    name = "Projects"
     identifier = "projects"
     weight = 200
 
   [[menu.main]]
-    name = "Projects & Home Lab"
+    name = "Portfolio"
     identifier = "portfolio"
     weight = 210
     url = "/portfolio/"
