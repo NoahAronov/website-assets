@@ -1,6 +1,6 @@
 +++
-date = "05-30-2024"
 alias = "about"
+mainSections = [""]
 +++
 
 Test content for about
