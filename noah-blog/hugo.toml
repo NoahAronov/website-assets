@@ -56,9 +56,9 @@ pygmentsCodefencesGuessSyntax = true
   [[menu.main]]
     name = "Portfolio"
     identifier = "portfolio"
-    weight = 210
+    weight = 600
     url = "/portfolio/"
-    parent = "projects"
+    #parent = "projects"
 
   [[menu.main]]
     name = "Writing & Publications"
