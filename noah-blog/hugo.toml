@@ -28,7 +28,7 @@ pygmentsCodefencesGuessSyntax = true
   profilePicture = "images/profile.png"
   copyright = "Noah Aronov 2023-{{ YEAR }}"
   reversepagetitle = true
-  #mainSections = [""]
+  mainSections = [""]
 
     [[params.socialIcons]]
       icon = "fab fa-linkedin"
@@ -93,24 +93,31 @@ pygmentsCodefencesGuessSyntax = true
     url = "/certifications/"
     parent = "education"
 
-[[menu.main]]
+  [[menu.main]]
+    name = "Capture-the-Flags & Competitions"
+    identifier = "competitions"
+    weight = 330
+    url = "/competitions/"
+    parent = "education"
+
+  [[menu.main]]
     name = "Honors & Awards"
     identifier = "honors"
-    weight = 330
+    weight = 340
     url = "/honors/"
     parent = "education"  
 
   [[menu.main]]
     name = "Courses & Learning Paths"
     identifier = "courses"
-    weight = 340
+    weight = 350
     url = "/courses/"
     parent = "education"
 
   [[menu.main]]
     name = "Research Areas"
     identifier = "research"
-    weight = 350
+    weight = 360
     url = "/research/"
     parent = "education"
 
@@ -127,8 +134,15 @@ pygmentsCodefencesGuessSyntax = true
     parent = "profile"
 
   [[menu.main]]
+    name = "Organizations & Associations"
+    identifier = "organizations"
+    weight = 420
+    url = "/organizations/"
+    parent = "profile"
+
+  [[menu.main]]
     name = "Full Resume"
     identifier = "resume"
-    weight = 420
+    weight = 430
     url = "/resume/"
     parent = "profile"

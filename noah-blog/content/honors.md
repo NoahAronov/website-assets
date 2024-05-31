@@ -5,14 +5,22 @@ date = "2022-04-10"
 aliases = ["awards"]
 +++
 
-Excellence Award, Communication — College of Information Technology, Western Governors University
+---
 
-College of IT Scholarship — College of Information Technology, Western Governors University
+*Awarded or accomplished during senior year of high school and during university studies.*
 
-Nevada Scholars Scholarship — (incoming freshmen) University, Nevada
+---
 
-Governor Kenny C. Guinn Millenium Scholarship — (incoming freshmen) University, Nevada
+(**OSSNHS**) [The Order of the Sword and Shield National Honor Society, Omicron Sigma Sigma](https://www.securityhonorsociety.org/) (**ΟΣΣ**) — *2024*
 
-National Honor Society — High School, Nevada
+**Excellence Award, Communication** — College of Information Technology, Western Governors University, *2024*
 
-State Finalist (3rd), Northern Nevada — Varsity Swim Team, High School, Nevada
+**College of IT Scholarship** — College of Information Technology, Western Governors University, *2024*
+
+**Nevada Scholars Scholarship** — (incoming freshmen) University, Nevada
+
+**Governor Kenny C. Guinn Millenium Scholarship** — (incoming freshmen) University, Nevada
+
+**National Honor Society** — High School, Nevada
+
+**State Finalist (3rd), Northern Nevada** — Varsity Swim Team, High School, Nevada
