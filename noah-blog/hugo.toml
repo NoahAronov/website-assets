@@ -2,3 +2,14 @@ baseURL = "https://noahsec.pro"
 languageCode = "en-us"
 title = "NoahSec"
 theme = "anatole"
+
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[params]
+  title = "test title"
+  author = "test author"
+  description = "test desc"
+  profilePicture = "images/profile.png"
+  copyright = "2023-{{ YEAR }}"
