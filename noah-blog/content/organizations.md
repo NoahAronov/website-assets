@@ -10,22 +10,32 @@ aliases = ["organizations"]
 
 ---
 
-Associate — ISC2
+[**National Cybersecurity Student Association**](https://www.cyberstudents.org/) (**NCSA**)
+Participant
 
-Participant — National Cybersecurity Student Association (NCSA)
+[**Western Governors University Cybersecurity Club**](https://www.wgu.edu/online-it-degrees/cyber-club.html) (**WGUCC**)
+Member
 
-Member — Western Governors University Cybersecurity Club (WGUCC)
+[**ISC2**](https://www.isc2.org/)
+Associate
 
-Member — Cloud Security Alliance (CSA)
+[**SANS Insitute**](https://www.sans.org/)
+Member
 
-Contributor — Quantum-Safe Security Working Group, Cloud Security Alliance (CSA)
+[**Cloud Security Alliance**](https://cloudsecurityalliance.org/) (**CSA**)
+Member
 
-Member — Cyber-Physical Systems Virtual Organization (CPS-VO)
+[**Quantum-Safe Security Working Group, Cloud Security Alliance**](https://cloudsecurityalliance.org/research/working-groups/quantum-safe-security) (**CSA**)
+Contributor
 
-Member — Science of Security and Privacy Virtual Organization (SoS-VO)
+[**Cyber-Physical Systems Virtual Organization**](https://cps-vo.org/node/1) (**CPS-VO**)
+Member
 
-Member — NeuroTechX
+[**Science of Security and Privacy Virtual Organization**](https://cps-vo.org/node/1) (**SoS-VO**)
+Member
 
-Member — SANS Insitute
+[**NeuroTechX**](https://neurotechx.com/)
+Member
 
-Member — Centre for Cybersecurity, World Economic Forum (WEF)
+[**Centre for Cybersecurity, World Economic Forum**](https://centres.weforum.org/centre-for-cybersecurity/home) (**WEF**)
+Member
