@@ -1,6 +1,6 @@
 +++
-title = "Honors & Awards"
-description = "Honors & Awards"
+title = "Honors"
+description = "Honors"
 date = "2022-04-10"
 aliases = ["awards"]
 +++

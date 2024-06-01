@@ -10,25 +10,6 @@ aliases = ["certifications"]
 
 ---
 
-### Future Goals
-
-[**CRTO**](https://training.zeropointsecurity.co.uk/courses/red-team-ops), **Certified Red Team Operator** \
-Zero-Point Security, ~$500
-
-[**PNPT**](https://certifications.tcm-sec.com/pnpt/), **Practical Network Penetration Tester** \
-TCM Security, ~$400
-
-[**PWPT**](https://certifications.tcm-sec.com/), **Practical Web Penetration Tester** \
-TCM Security (Coming Soon), ~$400
-
-[**PJIT**](https://certifications.tcm-sec.com/pjit/), **Practical Junior IoT Tester** \
-TCM Security, ~$250
-
-[**PJMT**](https://certifications.tcm-sec.com/pjmt/), **Practical Junior Mobile Tester** \
-TCM Security, ~$250
-
----
-
 ### Certifications
 
 [**PJOR**](https://certifications.tcm-sec.com/pjor/), **Practical Junior OSINT Researcher** \
@@ -129,3 +110,22 @@ MSI, *02/2023*
 
 [**PMEC**](https://www.msicertified.com/project-management/project-management-essentials-certified/), **Project Management Essentials Certified** \
 MSI, *02/2023*
+
+---
+
+### Future Goals
+
+[**CRTO**](https://training.zeropointsecurity.co.uk/courses/red-team-ops), **Certified Red Team Operator** \
+Zero-Point Security, ~$500
+
+[**PNPT**](https://certifications.tcm-sec.com/pnpt/), **Practical Network Penetration Tester** \
+TCM Security, ~$400
+
+[**PWPT**](https://certifications.tcm-sec.com/), **Practical Web Penetration Tester** \
+TCM Security (Coming Soon), ~$400
+
+[**PJIT**](https://certifications.tcm-sec.com/pjit/), **Practical Junior IoT Tester** \
+TCM Security, ~$250
+
+[**PJMT**](https://certifications.tcm-sec.com/pjmt/), **Practical Junior Mobile Tester** \
+TCM Security, ~$250

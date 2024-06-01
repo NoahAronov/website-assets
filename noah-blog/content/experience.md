@@ -16,11 +16,11 @@ aliases = ["experience"]
 Discord Community Administrator \
 Head of Gamemaster Team \
 Head of Training Team \
-@ Hadron, USA (Volunteer)
+@ [Hadron](https://noahsec.pro/hadron/), USA (Volunteer)
 
 **Assistant Head Sushi Chef** \
 Head Sushi Chef Trainer \
-@ Zanmai, USA
+@ [Zanmai](https://noahsec.pro/zanmai/), USA
 
 **Senior Sushi Chef** \
 Sushi Chef Trainer \
@@ -45,16 +45,16 @@ Sushi Chef Trainer \
 @ [Projects](https://noahsec.pro/portfolio/) 
 
 **Security CTF Player** \
-@ TryHackme \
-@ Hack the Box \
-@ Lakerta 
+@ [TryHackme](https://noahsec.pro/tryhackme/) \
+@ [Hack the Box](https://noahsec.pro/hackthebox/) \
+@ [Lakerta](https://noahsec.pro/lakerta/) 
 
 **Security Writer** \
 @ [Writing](https://noahsec.pro/writing/) \
-@ Medium 
+@ [Medium](https://medium.com/@noahsec) 
 
 **Security Presenter** \
-@ YouTube
+@ [YouTube](https://youtube.com/)
 
 **Security and Technology Researcher** \
 @ [Research](https://noahsec.pro/research/) \
