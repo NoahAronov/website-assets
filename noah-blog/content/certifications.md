@@ -43,10 +43,11 @@ CompTIA, *08/2023*
 CompTIA, *08/2023*
 
 [**Associate of ISC2**](https://www.isc2.org/certifications/sscp), \
-Passed exam, awaiting endorsement — **SSCP**, **Systems Security Certified Practitioner** \
+Passed exam, awaiting endorsement 
+(**SSCP**, **Systems Security Certified Practitioner**) \
 ISC2, *11/2023*
 
-[**CC**](https://www.isc2.org/certifications/cc) — **Certified in Cybersecurity** \
+[**CC**](https://www.isc2.org/certifications/cc), **Certified in Cybersecurity** \
 ISC2, *08/2023*
 
 [**Linux Essentials**](https://www.lpi.org/our-certifications/linux-essentials-overview/) \

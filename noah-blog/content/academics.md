@@ -29,7 +29,7 @@ Oxford Home Study Centre, *2023*
 **Honors Diploma** \
 High School, Nevada \
 Courses: Calculus I & II, Graphic Design, Drafting, AP Politics, AP History, AP German, AP English \
-Activities: Editor & Reporter @ School Newspaper, German Languange Club, Varsity Swim Team
+Activities: Editor & Reporter @ School Newspaper, German Language Club, Varsity Swim Team
 
 ---
 
