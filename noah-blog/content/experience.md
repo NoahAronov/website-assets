@@ -1,6 +1,6 @@
 +++
-title = "Professional Experience"
-description = "Professional Experience"
+title = "Experience"
+description = "Experience"
 aliases = ["experience"]
 +++
 
@@ -13,19 +13,36 @@ aliases = ["experience"]
 ### Professional Experience
 
 **Senior Administrator** \
+Discord Community Administrator \
 Head of Gamemaster Team \
 Head of Training Team \
-@ Hadron (Volunteer)
+@ Hadron, USA (Volunteer)
 
 **Assistant Head Sushi Chef** \
 Head Sushi Chef Trainer \
-@ Zanmai
+@ Zanmai, USA
+
+**Senior Sushi Chef** \
+Sushi Chef Trainer \
+@ Sushi Restaurant, USA
+
+**Head Sushi Chef** \
+Sushi Chef Trainer \
+@ Sushi Restaurant, USA
+
+---
 
 ### Personal Experience
 
+**Security Student** \
+@ [Academics](https://noahsec.pro/academics/) \
+@ [Certifications](https://noahsec.pro/certifications/) \
+@ [Extra Courses](https://noahsec.pro/courses/) \
+@ [Honors](https://noahsec.pro/honors/)
+
 **Security Engineer** \
-@ Home Lab \
-@ Projects 
+@ [Home Lab](https://noahsec.pro/portfolio/) \
+@ [Projects](https://noahsec.pro/portfolio/) 
 
 **Security CTF Player** \
 @ TryHackme \
@@ -33,12 +50,13 @@ Head Sushi Chef Trainer \
 @ Lakerta 
 
 **Security Writer** \
+@ [Writing](https://noahsec.pro/writing/) \
 @ Medium 
 
-**Security Student** \
-@ Academics \
-@ Certifications \
-@ Extra Courses
+**Security Presenter** \
+@ YouTube
 
 **Security and Technology Researcher** \
-@ [Redacted] (Volunteer)
+@ [Research](https://noahsec.pro/research/) \
+@ [Writing](https://noahsec.pro/writing/) (contact Noah for a sample) \
+@ Company, USA (Volunteer)

@@ -1,6 +1,6 @@
 +++
-title = "Capture-the-Flags & Competitions"
-description = "Capture-the-Flags & Competitions"
+title = "Competitions"
+description = "Competitions"
 aliases = ["competitions"]
 +++
 

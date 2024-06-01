@@ -29,6 +29,7 @@ pygmentsCodefencesGuessSyntax = true
   copyright = "Noah Aronov 2023-{{ YEAR }}"
   reversepagetitle = true
   mainSections = [""]
+  hidesidebar = true
 
     [[params.socialIcons]]
       icon = "fab fa-linkedin"
@@ -61,14 +62,14 @@ pygmentsCodefencesGuessSyntax = true
     parent = "projects"
 
   [[menu.main]]
-    name = "Writing & Publications"
+    name = "Writing"
     identifier = "writing"
     weight = 220
     url = "/writing/"
     parent = "projects"
 
   [[menu.main]]
-    name = "Episodes & Presentations"
+    name = "Presentations"
     identifier = "presentations"
     weight = 230
     url = "/presentations/"
@@ -80,35 +81,35 @@ pygmentsCodefencesGuessSyntax = true
     weight = 300
 
   [[menu.main]]
-    name = "Universities & Programs"
-    identifier = "academic"
+    name = "Academics"
+    identifier = "academics"
     weight = 310
-    url = "/academic/"
+    url = "/academics/"
     parent = "education"
 
   [[menu.main]]
-    name = "Certifications & Certificates"
+    name = "Certifications"
     identifier = "certifications"
     weight = 320
     url = "/certifications/"
     parent = "education"
 
   [[menu.main]]
-    name = "Capture-the-Flags & Competitions"
+    name = "Competitions"
     identifier = "competitions"
     weight = 330
     url = "/competitions/"
     parent = "education"
 
   [[menu.main]]
-    name = "Honors & Awards"
+    name = "Honors"
     identifier = "honors"
     weight = 340
     url = "/honors/"
     parent = "education"  
 
   [[menu.main]]
-    name = "Courses & Learning Paths"
+    name = "Extra Courses"
     identifier = "courses"
     weight = 350
     url = "/courses/"
@@ -127,21 +128,21 @@ pygmentsCodefencesGuessSyntax = true
     weight = 400
 
   [[menu.main]]
-    name = "Professional Experience"
+    name = "Experience"
     identifier = "experience"
     weight = 410
     url = "/experience/"
     parent = "profile"
 
   [[menu.main]]
-    name = "Organizations & Associations"
+    name = "Organizations"
     identifier = "organizations"
     weight = 420
     url = "/organizations/"
     parent = "profile"
 
   [[menu.main]]
-    name = "Full Resume"
+    name = "Resume"
     identifier = "resume"
     weight = 430
     url = "/resume/"
