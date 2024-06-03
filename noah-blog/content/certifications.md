@@ -43,7 +43,7 @@ CompTIA, *08/2023*
 CompTIA, *08/2023*
 
 [**Associate of ISC2**](https://www.isc2.org/certifications/sscp), \
-Passed exam, awaiting endorsement 
+Passed exam, awaiting endorsement \
 (**SSCP**, **Systems Security Certified Practitioner**) \
 ISC2, *11/2023*
 
