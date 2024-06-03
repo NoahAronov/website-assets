@@ -128,10 +128,8 @@ TCM Security, ~$400
 [**PJIT**](https://certifications.tcm-sec.com/pjit/), **Practical Junior IoT Tester** \
 TCM Security, ~$250
 
-
 [**PJMT**](https://certifications.tcm-sec.com/pjmt/), **Practical Junior Mobile Tester** \
 TCM Security, ~$250
-
 
 [**PJMR**](https://certifications.tcm-sec.com/pjmt/), **Practical Junior Malware Researcher** \
 TCM Security, ~$350
