@@ -78,69 +78,52 @@ Active Countermeasures, *08/2023*
 [**Active Defense & Cyber Deception w/ John Strand**](https://www.antisyphontraining.com/on-demand-courses/active-defense-cyber-deception-w-john-strand/) \
 Antisyphon Training, *02/2023*
 
-
 [**Qualys Certified Specialist: Vulnerability Management**](https://www.qualys.com/training/course/vulnerability-management/) \
 Qualys, *08/2023*
 
-  
 [**Qualys Certified Specialist: VMDR**](https://www.qualys.com/training/course/vmdr/) \
 Qualys, *08/2023*
-
 
 [**Google Cybersecurity Professional**](https://grow.google/certificates/cybersecurity/) \
 with CompTIA Security+ Dual Credential \
 Google, *11/2023*
 
-
 [**GECEC**](https://www.gremlin.com/certification), **Gremlin Enterprise Chaos Engineering Certification** \
 Gremlin, *2024*
-
 
 [**ICIP**](https://get-started.opswatacademy.com/introduction-critical-infrastructure-protection), **Introduction to Critical Infrastructure Protection** \
 OPSWAT, *02/2023*
 
-
 [**FCF**](https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity), **Fortinet Certified Fundamentals in Cybersecurity** \
 Fortinet, *02/2023*
-
 
 [**Microsoft Career Essentials in Cybersecurity**](https://www.linkedin.com/learning/paths/career-essentials-in-cybersecurity-by-microsoft-and-linkedin) \
 Microsoft, *11/2023*
 
-
 [**Microsoft Career Essentials in System Administration**](https://www.linkedin.com/learning/career-essentials-in-system-administration-by-microsoft-and-linkedin) \
 Microsoft, *11/2023*
-
 
 [**Microsoft Career Essentials in Generative AI**](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) \
 Microsoft, *02/2024*
 
-
 [**BMEC**](https://lms.msicertified.com/store/3052441-business-management-essentials-certified-bmec-advanced), **Business Management Essentials Certified** \
 MSI, *02/2023*
-
 
 [**PMEC**](https://www.msicertified.com/project-management/project-management-essentials-certified/), **Project Management Essentials Certified** \
 MSI, *02/2023*
 
-
 ---
 
-
 ### Future Goals
-
 
 [**CRTO**](https://training.zeropointsecurity.co.uk/courses/red-team-ops), **Certified Red Team Operator** \
 Zero-Point Security, ~$500
 
-
-[**CARTP**](https://www.alteredsecurity.com/azureadlab), **Certified Azure Red Team Professional**
+[**CARTP**](https://www.alteredsecurity.com/azureadlab), **Certified Azure Red Team Professional** \
 Altered Security, ~$450
-
 
 [**PNPT**](https://certifications.tcm-sec.com/pnpt/), **Practical Network Penetration Tester** \
 TCM Security, ~$400
-
 
 [**PJIT**](https://certifications.tcm-sec.com/pjit/), **Practical Junior IoT Tester** \
 TCM Security, ~$250
@@ -152,12 +135,3 @@ TCM Security, ~$250
 
 [**PJMR**](https://certifications.tcm-sec.com/pjmt/), **Practical Junior Malware Researcher** \
 TCM Security, ~$350
-
-
-
-
-
-
-<!-- [**PWPT**](https://certifications.tcm-sec.com/), **Practical Web Penetration Tester** \
-TCM Security (Coming Soon), ~$400 [OASP](https://cloudbreach.io/breachingazure/#_oasp), **Offensive Azure Security Professional** \
-CloudBreach, ~$500-->
