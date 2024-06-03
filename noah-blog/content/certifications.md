@@ -13,19 +13,19 @@ aliases = ["certifications"]
 ### Certifications
 
 [**PJOR**](https://certifications.tcm-sec.com/pjor/), **Practical Junior OSINT Researcher** \
-TCM Security, 
+TCM Security, *03/2024*
 
 [**PenTest+**](https://www.comptia.org/certifications/pentest) \
 CompTIA, *Expected 06/2024*
 
 [**CySA+**](https://www.comptia.org/certifications/cybersecurity-analyst), **Cybersecurity Analyst+** \
-CompTIA,
+CompTIA, *04/2024*
 
 [**Security+**](https://www.comptia.org/certifications/security) \
 CompTIA, *08/2023*
 
 [**Project+**](https://www.comptia.org/certifications/project) \
-CompTIA, 
+CompTIA, *02/2024*
 
 [**Network+**](https://www.comptia.org/certifications/network) \
 CompTIA, *08/2023*
@@ -34,7 +34,7 @@ CompTIA, *08/2023*
 CompTIA, *08/2023* 
 
 [**CSAP**](https://www.comptia.org/certifications/which-certification/stackable-certifications), **CompTIA Security Analytics Professional** \
-CompTIA,
+CompTIA, *04/2024*
 
 [**CSIS**](https://www.comptia.org/certifications/which-certification/stackable-certifications), **CompTIA Secure Infrastructure Specialist** \
 CompTIA, *08/2023*
