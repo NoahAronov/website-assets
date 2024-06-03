@@ -1,6 +1,6 @@
 +++
-title = "Certifications & Certificates"
-description = "Certifications & Certificates"
+title = "Certifications"
+description = "Certifications"
 aliases = ["certifications"]
 +++
 

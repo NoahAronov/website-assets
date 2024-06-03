@@ -36,13 +36,13 @@ Sushi Chef Trainer \
 
 **Security Student** \
 @ [Academics](https://noahsec.pro/academics/) \
-@ [Certifications](https://noahsec.pro/certifications/) \
 @ [Extra Courses](https://noahsec.pro/courses/) \
 @ [Honors](https://noahsec.pro/honors/)
 
 **Security Engineer** \
 @ [Home Lab](https://noahsec.pro/portfolio/) \
-@ [Projects](https://noahsec.pro/portfolio/) 
+@ [Projects](https://noahsec.pro/portfolio/) \
+@ [Certifications](https://noahsec.pro/certifications/) 
 
 **Security CTF Player** \
 @ [TryHackme](https://noahsec.pro/tryhackme/) \
@@ -54,7 +54,7 @@ Sushi Chef Trainer \
 @ [Medium](https://medium.com/@noahsec) 
 
 **Security Presenter** \
-@ [YouTube](https://youtube.com/)
+@ [YouTube](https://youtube.com/@noahsec)
 
 **Security and Technology Researcher** \
 @ [Research](https://noahsec.pro/research/) \

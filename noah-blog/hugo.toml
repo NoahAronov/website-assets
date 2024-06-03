@@ -30,11 +30,26 @@ pygmentsCodefencesGuessSyntax = true
   reversepagetitle = true
   mainSections = [""]
   hidesidebar = true
+    
+    [[params.socialIcons]]
+      icon = "fab fa-github"
+      title = "GitHub"
+      url = "https://github.com"
 
     [[params.socialIcons]]
       icon = "fab fa-linkedin"
       title = "LinkedIn"
       url = "https://linkedin.com"
+
+    [[params.socialIcons]]
+      icon = "fab fa-medium"
+      title = "Medium"
+      url = "https://medium.com"
+
+    [[params.socialIcons]]
+      icon = "fab fa-youtube"
+      title = "YouTube"
+      url = "https://youtube.com"
 
     [[params.socialIcons]]
       icon = "fas fa-envelope"
