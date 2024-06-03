@@ -25,7 +25,7 @@ pygmentsCodefencesGuessSyntax = true
   Noah's security portfolio 
   and accomplishments.
   """
-  profilePicture = "images/profile.png"
+  profilePicture = "static/images/profile.jpg"
   copyright = "Noah Aronov 2023-{{ YEAR }}"
   reversepagetitle = true
   mainSections = [""]
