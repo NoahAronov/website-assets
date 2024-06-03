@@ -45,9 +45,9 @@ Sushi Chef Trainer \
 @ [Certifications](https://noahsec.pro/certifications/) 
 
 **Security CTF Player** \
-@ [TryHackme](https://noahsec.pro/tryhackme/) \
-@ [Hack the Box](https://noahsec.pro/hackthebox/) \
-@ [Lakerta](https://noahsec.pro/lakerta/) 
+@ [TryHackme](https://noahsec.pro/competitions/) \
+@ [Hack the Box](https://noahsec.pro/competitions/) \
+@ [Lakera](https://noahsec.pro/competitions/) 
 
 **Security Writer** \
 @ [Writing](https://noahsec.pro/writing/) \
