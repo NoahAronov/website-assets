@@ -34,7 +34,7 @@ pygmentsCodefencesGuessSyntax = true
     [[params.socialIcons]]
       icon = "fab fa-github"
       title = "GitHub"
-      url = "https://github.com/NoahAronov
+      url = "https://github.com/NoahAronov"
 
     [[params.socialIcons]]
       icon = "fab fa-linkedin"
