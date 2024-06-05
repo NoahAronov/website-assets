@@ -12,6 +12,9 @@ aliases = ["certifications"]
 
 ### Certifications
 
+[**MCRTA**](https://cyberwarfare.live/product/multi-cloud-red-team-analyst-mcrta/), **Multi-Cloud Red Team Analyst** \
+CyberWarFare Labs, *06,2024*
+
 [**PJOR**](https://certifications.tcm-sec.com/pjor/), **Practical Junior OSINT Researcher** \
 TCM Security, *03/2024*
 
