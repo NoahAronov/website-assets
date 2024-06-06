@@ -18,22 +18,22 @@ CyberWarFare Labs, *06,2024*
 [**PJOR**](https://certifications.tcm-sec.com/pjor/), **Practical Junior OSINT Researcher** \
 TCM Security, *03/2024*
 
-[**PenTest+**](https://www.comptia.org/certifications/pentest) \
+[**PenTest+**](https://www.comptia.org/certifications/pentest), **CompTIA Penetration Tester+** \
 CompTIA, *Expected 06/2024*
 
-[**CySA+**](https://www.comptia.org/certifications/cybersecurity-analyst), **Cybersecurity Analyst+** \
+[**CySA+**](https://www.comptia.org/certifications/cybersecurity-analyst), **CompTIA Cybersecurity Analyst+** \
 CompTIA, *04/2024*
 
-[**Security+**](https://www.comptia.org/certifications/security) \
+[**CompTIA Security+**](https://www.comptia.org/certifications/security) \
 CompTIA, *08/2023*
 
-[**Project+**](https://www.comptia.org/certifications/project) \
+[**CompTIA Project+**](https://www.comptia.org/certifications/project) \
 CompTIA, *02/2024*
 
-[**Network+**](https://www.comptia.org/certifications/network) \
+[**CompTIA Network+**](https://www.comptia.org/certifications/network) \
 CompTIA, *08/2023*
 
-[**A+**](https://www.comptia.org/certifications/a) \
+[**CompTIA A+**](https://www.comptia.org/certifications/a) \
 CompTIA, *08/2023* 
 
 [**CSAP**](https://www.comptia.org/certifications/which-certification/stackable-certifications), **CompTIA Security Analytics Professional** \
@@ -71,6 +71,9 @@ Security Blue Team, *01/2024*
 
 [**Foundation Level Threat Intelligence Analyst**](https://arcx.io/courses/cyber-threat-intelligence-101) \
 arcX, *09/2023*
+
+[**Exposure Management Certified Expert**](https://xm-cyber.thinkific.com/courses/exposure-management-certification) \
+XM Cyber, *06/2024*
 
 [**Ethical Hacker**](https://skillsforall.com/course/ethical-hacker) \
 Cisco Networking Academy, *09/2023*
