@@ -117,10 +117,10 @@ pygmentsCodefencesGuessSyntax = true
     parent = "education"
 
   [[menu.main]]
-    name = "Honors"
-    identifier = "honors"
+    name = "Honors & Awards"
+    identifier = "awards"
     weight = 340
-    url = "/honors/"
+    url = "/awards/"
     parent = "education"  
 
   [[menu.main]]
