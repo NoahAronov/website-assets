@@ -6,7 +6,7 @@ aliases = ["academics"]
 
 ---
 
-*Degrees and diplomas from schools and universities, education and training from academic and defense institutions, and continuing education from Coursera. Options for future goals in postgraduate education.*
+*Degrees and diplomas from schools and universities, education and training from academic and defense institutions, and continuing education from Coursera. Options for future goals of postgraduate education in offensive security.*
 
 ---
 <br>
@@ -71,32 +71,19 @@ InfoSec, *2023*
 <br>
 
 ---
-<br>
 
 ### Future Goals
-<br>
 
-**Doctor of Cybersecurity** (**DSc**) \
-[Capitol Technology University](https://www.captechu.edu/degrees-and-programs/doctoral-degrees/doctorate-in-cybersecurity)
-<br>
+1. [**Doctor of Cybersecurity**](https://www.captechu.edu/degrees-and-programs/doctoral-degrees/doctorate-in-cybersecurity) (**DSc**) — *Capitol Technology University*
 
-**Doctor of Philosophy, Offensive Cyber Engineering** (**PhD**) \
-[Capitol Technology University](https://www.captechu.edu/degrees-and-programs/doctoral-degrees/offensive-cyber-engineering-phd)
-<br>
+2. [**Doctor of Philosophy, Offensive Cyber Engineering**](https://www.captechu.edu/degrees-and-programs/doctoral-degrees/offensive-cyber-engineering-phd) (**PhD**) — *Capitol Technology University*
 
-**Doctor of Computer Science, Cybersecurity and Information Assurance** (**DCS-CIA**) \
-College of Computer Science, Engineering, and Technology, [Colorado Technical University](https://www.coloradotech.edu/degrees/doctorates/computer-science/cybersecurity-information-assurance) (CTU)
-<br>
+3. [**Doctor of Computer Science, Cybersecurity and Information Assurance**](https://www.coloradotech.edu/degrees/doctorates/computer-science/cybersecurity-information-assurance) (**DCS-CIA**) — *Colorado Technical University*
 
-**Master of Engineering, Cybersecurity** (**MECS**) \
-[Duke University](https://cybersecurity.meng.duke.edu/degree)
-<br>
+4. [**Master of Engineering, Cybersecurity**](https://cybersecurity.meng.duke.edu/degree) (**MECS**) — *Duke University*
 
-**Master of Science, Information Security Engineering** (**MSISE**) \
-[SANS Technology Institute](https://www.sans.edu/cyber-security-programs/masters-degree/?msc=main-nav) \
-[National Center of Academic Excellence in Cyber Defense](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program/cae-cde-program-designation.html) ([CAE-CD](https://caecommunity.org/about-us/what-cae-cybersecurity)), designation managed by [NSA's National Cryptologic School](https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/)
-<br>
+5. [**Master of Science, Information Security Engineering**](https://www.sans.edu/cyber-security-programs/masters-degree/?msc=main-nav) (**MSISE**) — *SANS Technology Institute* \
+ [National Center of Academic Excellence in Cyber Defense](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program/cae-cde-program-designation.html) ([CAE-CD](https://caecommunity.org/about-us/what-cae-cybersecurity)), designation managed by [NSA's National Cryptologic School](https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/)
 
-**Graduate Certificate, Purple Team Operations** \
-[SANS Technology Institute](https://www.sans.edu/cyber-security-programs/graduate-certificate-purple-team/) \
-Focus: Applied AI/ML, Red Team Operations
+6. [**Graduate Certificate, Purple Team Operations**](https://www.sans.edu/cyber-security-programs/graduate-certificate-purple-team/) — *SANS Technology Institute* \
+ Focus: Applied AI/ML, Red Team Operations
