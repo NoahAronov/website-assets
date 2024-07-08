@@ -6,7 +6,7 @@ aliases = ["academics"]
 
 ---
 
-*Degrees and diplomas from schools and universities, education and training from academic and defense institutions, and continuing education from providers like Coursera. Options for future goals of postgraduate education in offensive security.*
+*Degrees and diplomas from schools and universities, education and training from academic and defense institutions, and continuing education from providers like Coursera. Options for future goals of postgraduate education in offensive security. Listed from most recent to oldest.*
 
 ---
 

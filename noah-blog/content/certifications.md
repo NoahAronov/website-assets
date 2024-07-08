@@ -6,7 +6,7 @@ aliases = ["certifications"]
 
 ---
 
-*Obtained during university studies and as extra achievements. Certifications are considered to be more rigorous and require a proctored exam or a hands-on lab. Certificates are considered to be less rigorous, typically with a non-proctored multiple-choice exam. Future certification goals for when budget allows, focused on offensive security.*
+*Obtained during university studies and as extra achievements. Certifications are considered to be more rigorous and require a proctored exam or a hands-on lab. Certificates are considered to be less rigorous, typically with a non-proctored multiple-choice exam. Future certification goals for when budget allows, focused on offensive security. Listed in order of difficulty when possible.*
 
 ---
 
