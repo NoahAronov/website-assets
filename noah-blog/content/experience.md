@@ -12,51 +12,51 @@ aliases = ["experience"]
 
 ### Professional Experience
 
-**Senior Administrator** \
-Discord Community Administrator \
-Head of Gamemaster Team \
-Head of Training Team \
-@ [Hadron](https://noahsec.pro/hadron/), USA (Volunteer)
+1. **Senior Administrator** \
+ Discord Community Administrator \
+ Head of Gamemaster Team \
+ Head of Training Team \
+ @ *Hadron, USA (Volunteer)*
 
-**Assistant Head Sushi Chef** \
-Head Sushi Chef Trainer \
-@ [Zanmai](https://noahsec.pro/zanmai/), USA
+2. **Assistant Head Sushi Chef** \
+ Head Sushi Chef Trainer \
+ @ *Zanmai, USA (Paid)*
 
-**Senior Sushi Chef** \
-Sushi Chef Trainer \
-@ Sushi Restaurant, USA
+3. **Senior Sushi Chef** \
+ Sushi Chef Trainer \
+ @ *Sushi Restaurant, USA (Paid)*
 
-**Head Sushi Chef** \
-Sushi Chef Trainer \
-@ Sushi Restaurant, USA
+4. **Head Sushi Chef** \
+ Sushi Chef Trainer \
+ @ *Sushi Restaurant, USA (Paid)*
 
 ---
 
 ### Personal Experience
 
-**Security Student** \
-@ [Academics](https://noahsec.pro/academics/) \
-@ [Extra Courses](https://noahsec.pro/courses/) \
-@ [Honors](https://noahsec.pro/honors/)
+1. **Security Student** \
+ [Academics](https://noahsec.pro/academics/) \
+ [Extra Courses](https://noahsec.pro/courses/) \
+ [Honors](https://noahsec.pro/honors/)
 
-**Security Engineer** \
-@ [Home Lab](https://noahsec.pro/portfolio/) \
-@ [Projects](https://noahsec.pro/portfolio/) \
-@ [Certifications](https://noahsec.pro/certifications/) 
+2. **Security Engineer** \
+ [Home Lab](https://noahsec.pro/portfolio/) \
+ [Projects](https://noahsec.pro/portfolio/) \
+ [Certifications](https://noahsec.pro/certifications/) 
 
-**Security CTF Player** \
-@ [TryHackme](https://noahsec.pro/competitions/) \
-@ [Hack the Box](https://noahsec.pro/competitions/) \
-@ [Lakera](https://noahsec.pro/competitions/) 
+3. **Security CTF Player** \
+ [TryHackme](https://noahsec.pro/competitions/) \
+ [Hack the Box](https://noahsec.pro/competitions/) \
+ [Lakera](https://noahsec.pro/competitions/) 
 
-**Security Writer** \
-@ [Writing](https://noahsec.pro/writing/) \
-@ [Medium](https://medium.com/@noahsec) 
+4. **Security Writer** \
+ [Writing](https://noahsec.pro/writing/) \
+ [Medium](https://medium.com/@noahsec) 
 
-**Security Presenter** \
-@ [YouTube](https://youtube.com/@noahsec)
+5. **Security Presenter** \
+ [YouTube](https://youtube.com/@noahsec)
 
-**Security and Technology Researcher** \
-@ [Research](https://noahsec.pro/research/) \
-@ [Writing](https://noahsec.pro/writing/) (contact Noah for a sample) \
-@ Company, USA (Volunteer)
+6. **Security and Technology Researcher** \
+ [Research](https://noahsec.pro/research/) \
+ [Writing](https://noahsec.pro/writing/) \
+ @ *Company, USA (Volunteer)*

@@ -11,7 +11,7 @@ aliases = ["awards"]
 
 ---
 
-1. (**OSSNHS**) [The Order of the Sword and Shield National Honor Society, Omicron Sigma Sigma](https://www.securityhonorsociety.org/) (**ΟΣΣ**) — *Western Governors University, 2024*
+1. (**OSSNHS**) [**The Order of the Sword and Shield National Honor Society, Omicron Sigma Sigma**](https://www.securityhonorsociety.org/) (**ΟΣΣ**) — *Western Governors University, 2024*
 
 2. **Excellence Award, Communication** — *Western Governors University, 2024*
 
