@@ -12,9 +12,9 @@ aliases = ["academics"]
 
 ### Degrees & Diplomas
 
-1. [**Master of Science, Cybersecurity and Information Assurance**](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html) (**MSCSIA**) — *Western Governors University, Start 2024*
+1. [**Master of Science, Cybersecurity and Information Assurance**](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html) (**MSCSIA**) — *Western Governors University, 2024-2025*
 
-2. [**Bachelor of Science, Cybersecurity and Information Assurance**](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html) (**BSCSIA**) — *Western Governors University, End 2024* \
+2. [**Bachelor of Science, Cybersecurity and Information Assurance**](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html) (**BSCSIA**) — *Western Governors University, 2023-2024* \
  [National Center of Academic Excellence in Cyber Defense](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program/cae-cde-program-designation.html) ([CAE-CD](https://caecommunity.org/about-us/what-cae-cybersecurity)), designation managed by [NSA's National Cryptologic School](https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/) \
  Focus: Cyber Defense, Penetration Testing \
  Courses: Cryptography, Digital Forensics, Data Management, Python Programming, Applied Probability/Statistics, Cloud Security \
