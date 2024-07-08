@@ -19,7 +19,7 @@ CyberWarFare Labs, *06,2024*
 TCM Security, *03/2024*
 
 [**PenTest+**](https://www.comptia.org/certifications/pentest), **CompTIA Penetration Tester+** \
-CompTIA, *Expected 06/2024*
+CompTIA, *07/2024*
 
 [**CySA+**](https://www.comptia.org/certifications/cybersecurity-analyst), **CompTIA Cybersecurity Analyst+** \
 CompTIA, *04/2024*
@@ -129,6 +129,9 @@ Zero-Point Security, ~$500
 Altered Security, ~$450
 
 [**PNPT**](https://certifications.tcm-sec.com/pnpt/), **Practical Network Penetration Tester** \
+TCM Security, ~$400
+
+[**PWPT**](https://certifications.tcm-sec.com/pwpt/), **Practical Web Penetration Tester** \
 TCM Security, ~$400
 
 [**PJIT**](https://certifications.tcm-sec.com/pjit/), **Practical Junior IoT Tester** \
