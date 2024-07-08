@@ -7,28 +7,30 @@ Noah is a university student with experience in customer service, leading teams,
 
 Check out Noah's [Terminal Resume](https://terminal.noahsec.pro/).
 
-[Home Lab](https://noahsec.pro/portfolio): *showcasing a home lab for practicing IT and cybersecurity.* \
+---
 
-[Projects](https://noahsec.pro/portfolio): *showcasing projects for practicing IT and cybersecurity.* \
+1. [Home Lab](https://noahsec.pro/portfolio): *showcasing a home lab for practicing IT and cybersecurity.*
 
-[Writing](https://noahsec.pro/writing): *showcasing written work in security topics.* \
+2. [Projects](https://noahsec.pro/portfolio): *showcasing projects for practicing IT and cybersecurity.*
 
-[Presentations](https://noahsec.pro/presentations): *showcasing presentations in security topics.* \
+3. [Writing](https://noahsec.pro/writing): *showcasing written work in security topics.*
 
-[Academics](https://noahsec.pro/academics): *history of participation in academic programs including degrees.* \
+4. [Presentations](https://noahsec.pro/presentations): *showcasing presentations in security topics.*
 
-[Certifications](https://noahsec.pro/certifications): *professional certifications and certificates.* \
+5. [Academics](https://noahsec.pro/academics): *history of participation in academic programs including degrees.*
 
-[Competitions](https://noahsec.pro/competitions): *competitions, challenges, and capture-the-flags.* \
+6. [Certifications](https://noahsec.pro/certifications): *professional certifications and certificates.*
 
-[Honors](https://noahsec.pro/awards): *awards, honors, and accomplishments from school and universtiy.* \
+7. [Competitions](https://noahsec.pro/competitions): *competitions, challenges, and capture-the-flags.*
 
-[Extra Courses](https://noahsec.pro/courses): *courses and learning paths taken outside of university.* \
+8. [Honors](https://noahsec.pro/awards): *awards, honors, and accomplishments from school and universtiy.*
 
-[Research Areas](https://noahsec.pro/research): *research areas of interest related to security.* \
+9. [Extra Courses](https://noahsec.pro/courses): *courses and learning paths taken outside of university.*
 
-[Experience](https://noahsec.pro/experience): *professional and personal experience relevant to security.* \
+10. [Research Areas](https://noahsec.pro/research): *research areas of interest related to security.*
 
-[Organizations](https://noahsec.pro/organizations): *memberships and associations with professional organizations.* \
+11. [Experience](https://noahsec.pro/experience): *professional and personal experience relevant to security.*
 
-[Resume](https://noahsec.pro/resume): *full summary of experience and accomplishments.*
+12. [Organizations](https://noahsec.pro/organizations): *memberships and associations with professional organizations.*
+
+13. [Resume](https://noahsec.pro/resume): *full summary of experience and accomplishments.*
