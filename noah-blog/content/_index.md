@@ -5,7 +5,11 @@ alias = "about"
 
 Noah is a university student with experience in customer service, leading teams, and training team members. He has a learning background in information technology that spans across many specializations, and has experience troubleshooting abnormal glitches and misconfigurations. Noah has gone beyond the content taught with university classes and professional certifications, prefering to learn through experiencing the tools and techniques by hand. While learning and practicing he has also contributed to numerous cybersecurity communities, and has collaborated with peers to share his experience.
 
-Check out Noah's [Terminal Resume](https://terminal.noahsec.pro/).
+---
+
+Check out Noah's [External Links](https://links.noahsec.pro/), a list of links to external portfolio and social media sites.
+
+Check out Noah's [Terminal Resume](https://terminal.noahsec.pro/), a browser-based terminal emulator for exploring the resume using command-line prompts.
 
 ---
 
