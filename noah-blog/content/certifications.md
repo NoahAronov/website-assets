@@ -30,7 +30,7 @@ aliases = ["certifications"]
 
 9. [**CNSP**](https://www.comptia.org/certifications/which-certification/stackable-certifications), **CompTIA Network Security Professional** — *CompTIA, 07/2024*
 
-10. [**CVNP**](https://www.comptia.org/certifications/which-certification/stackable-certifications), **CompTIA Network Vulnerability Assessment Professional** — *CompTIA, 07/2024*
+10. [**CNVP**](https://www.comptia.org/certifications/which-certification/stackable-certifications), **CompTIA Network Vulnerability Assessment Professional** — *CompTIA, 07/2024*
 
 11. [**CSAP**](https://www.comptia.org/certifications/which-certification/stackable-certifications), **CompTIA Security Analytics Professional** — *CompTIA, 04/2024*
 
