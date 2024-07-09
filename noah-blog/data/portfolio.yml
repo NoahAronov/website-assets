@@ -23,7 +23,7 @@ portfolioitems:
     portfolioitem:
       - name: Projects Overview
         image: '/images/portfolio/code.jpg'
-        link: https://noahsec.pro/portfolio/portfolio-website
+        link: https://noahsec.pro/
         linktext: 'View more details'
         description: 'Summary of all projects.'
         #tags:
@@ -34,7 +34,7 @@ portfolioitems:
         #end: '2024'
       - name: Portfolio Website
         image: '/images/portfolio/code.jpg'
-        link: https://noahsec.pro/
+        link: https://noahsec.pro/portfolio/portfolio-website
         linktext: 'View more details'
         description: 'Uses Hugo, Anatole, terminalCV, Lynx, and Cloudflare.'
         #tags:
