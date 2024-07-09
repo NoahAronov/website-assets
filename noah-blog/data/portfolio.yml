@@ -29,10 +29,9 @@ portfolioitems:
         #tags:
          # - Tag 1
          # - Tag 2
-        status: 'Ongoing'
-        start: '2023'
-        end: '2024'
-    portfolioitem:
+        #status: 'Ongoing'
+        #start: '2023'
+        #end: '2024'
       - name: Portfolio Website
         image: '/images/portfolio/code.jpg'
         link: https://noahsec.pro/
