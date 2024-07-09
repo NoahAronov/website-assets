@@ -6,4 +6,4 @@
 
 2. Secure Porkbun domain management with passkey in Bitwarden password manager.
 
-![Porkbun passkey](port2.png)
+![Porkbun passkey](/images/portfolio/port2.png)
