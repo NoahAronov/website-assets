@@ -7,7 +7,7 @@ portfolioitems:
         image: '/images/portfolio/code.jpg'
         link: https://noahsec.pro/
         linktext: 'View more details'
-        description: 'This area consolidates and summarizes the pages that explain details about the Home Lab.'
+        description: 'Summary of full Home Lab.'
         #tags:
          # - Tag 1
           #- Tag 2
@@ -21,11 +21,23 @@ portfolioitems:
   - title: Projects
     description: 'Including practice with IAM, Web & Exploit Development, Configuration-as-Code, and Offensive Security Engineering.'
     portfolioitem:
+      - name: Projects Overview
+        image: '/images/portfolio/code.jpg'
+        link: https://noahsec.pro/
+        linktext: 'View more details'
+        description: 'Summary of all projects.'
+        #tags:
+         # - Tag 1
+         # - Tag 2
+        #status: 'Ongoing'
+        #start: '2023'
+        #end: '2024'
+    portfolioitem:
       - name: Portfolio Website
         image: '/images/portfolio/code.jpg'
         link: https://noahsec.pro/
         linktext: 'View more details'
-        description: 'Uses Hugo static site generator (powered by Go), Cloudflare Pages (static web hosting), Cloudflare DNS, Cloudflare Email Routing, Cloudflare WAF (Web Firewall with Logging), and Cloudflare Workers (automatic CI/CD build deployment).'
+        description: 'Uses Hugo, Anatole, terminalCV, Lynx, and Cloudflare.'
         #tags:
          # - Tag 1
          # - Tag 2
