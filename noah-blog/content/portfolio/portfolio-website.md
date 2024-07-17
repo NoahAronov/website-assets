@@ -1,15 +1,9 @@
 <style>
 .container {
-    display: flex;
-    overflow: hidden;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
     text-align: center;
 }
 .content {
     max-width: 100%;
-    object-fit: cover;
     margin: auto;
 }
 </style>
@@ -23,6 +17,7 @@
     <p><i>Porkbun tools</i></p>
   </div>
 </div>
+<br />
 <div class="container">
   <div class="content">
     <img src="/images/portfolio/port5.png" alt="Porkbun features">
