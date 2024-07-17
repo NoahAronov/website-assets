@@ -17,7 +17,7 @@
 </div>
 <br>
 <div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
-  <p style="margin-bottom:0">Porkbun security features:</p>
+  <h4 style="margin-bottom:0">Porkbun security features:</h4>
   <ul style="margin-top:0">
     <li>Free WHOIS Privacy</li>
     <li>Free SSL Certificates issued by <a href="https://letsencrypt.org/">Let's Encrypt</a></li>
