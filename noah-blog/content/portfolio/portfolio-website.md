@@ -27,10 +27,10 @@
 <br>
 <div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
   <p>
-  <a href="https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/">What is a domain name?</a>
-  <a href="https://porkbun.com/products/whois_privacy">What is WHOIS privacy?</a>
-  <a href="https://letsencrypt.org/how-it-works/">What is an SSL certificate?</a>
-  <a href="https://www.cloudflare.com/learning/dns/what-is-dns/">What is DNS?</a>
+  <a href="https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/">What is a domain name?</a><br>
+  <a href="https://porkbun.com/products/whois_privacy">What is WHOIS privacy?</a><br>
+  <a href="https://letsencrypt.org/how-it-works/">What is an SSL certificate?</a><br>
+  <a href="https://www.cloudflare.com/learning/dns/what-is-dns/">What is DNS?</a><br>
   </p>
 </div>
 
