@@ -1,14 +1,13 @@
-### 1. Register a custom domain with **[Porkbun.com](https://porkbun.com/)**.
+### 1. Registered a custom domain with **[Porkbun.com](https://porkbun.com/)**.
 
+<h3 style="text-align:center">Registered a custom domain with <a href="https://porkbun.com/">Porkbun.com</a></h3>
 <div style="text-align:center">
   <img src="/images/portfolio/port4.png" alt="Porkbun tools">
-  <br />
   <p><i>Porkbun tools</i></p>
 </div>
 <br />
 <div style="text-align:center">
   <img src="/images/portfolio/port5.png" alt="Porkbun features">
-  <br />
   <p><i>Porkbun features</i></p>
 </div>
 
@@ -28,7 +27,7 @@ Porkbun security features:
 [What is an SSL certificate?](https://letsencrypt.org/how-it-works/)
 [What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/)
 
-### 2. **Secure Porkbun domain management with a passkey in Bitwarden password manager.**
+### 2. **Secured Porkbun domain management with a passkey in Bitwarden password manager.**
 
 ![Porkbun passkey](/images/portfolio/port2.png)
 *Passkey in Porkbun*
@@ -47,7 +46,7 @@ Bitwarden security features:
 - Email alias integration
 - Data breach reports
 
-### 3. **Register a developer account with [Cloudflare.com](https://www.cloudflare.com/developer-platform/).**
+### 3. **Registered a developer account with [Cloudflare.com](https://www.cloudflare.com/developer-platform/).**
 
 Cloudflare DNS security features:
 - Unlimited and unmetered DDoS mitigation
