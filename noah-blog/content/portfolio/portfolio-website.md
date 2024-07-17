@@ -1,32 +1,30 @@
-### 1. Registered a custom domain with **[Porkbun.com](https://porkbun.com/)**.
-<style>
-    * {
-        text-align: center;
-    }
-
-</style>
 <h3 style="text-align:center">1. Registered a custom domain with Porkbun.</h3>
+
 <p style="text-align:center"><a href="https://porkbun.com/">Porkbun.com</a></p>
+
 <div style="text-align:center">
   <img src="/images/portfolio/port4.png" alt="Porkbun tools">
   <p><i>Porkbun tools</i></p>
 </div>
-<br />
-<div>
+<br>
+<div style="text-align:center">
   <img src="/images/portfolio/port5.png" alt="Porkbun features">
   <p><i>Porkbun features</i></p>
 </div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port5.png" alt="Porkbun domain">
+  <p><i>Porkbun domain management</i></p>
+</div>
 
-![Porkbun features](/images/portfolio/port5.png)
-*Porkbun features*
-
-![Porkbun domain mgmt](/images/portfolio/port1.png)
-*Porkbun domain management*
-
-Porkbun security features:
-- Free WHOIS Privacy
-- Free SSL Certificates issued by [Let's Encrypt](https://letsencrypt.org/)
-- Cloudflare DNS Management
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p>Porkbun security features:</p>
+  <ul>
+    <li>Free WHOIS Privacy</li>
+    <li>Free SSL Certificates issued by <a href="https://letsencrypt.org/">Let's Encrypt</a></li>
+    <li>Cloudflare DNS Management</li>
+  </ul>
+</div>
 
 [What is a domain name?](https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/)
 [What is WHOIS privacy?](https://porkbun.com/products/whois_privacy)
