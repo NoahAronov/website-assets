@@ -1,10 +1,8 @@
 ### 1. Register a domain with **[Porkbun.com](https://porkbun.com/)**.
 
-<img src="/images/portfolio/port4.png" alt="Porkbun tools" style="width:800px;float:left;">
-<div align="center">
+<img src="/images/portfolio/port4.png" alt="Porkbun tools" style="width:800px;align:left;">
 
 *Porkbun tools*
-</div>
 
 ![Porkbun features](/images/portfolio/port5.png)
 *Porkbun features*
