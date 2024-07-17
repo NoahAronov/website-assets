@@ -17,7 +17,7 @@
 </div>
 <br>
 <div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
-  <h4 style="margin-bottom:0">Porkbun security features:</h4>
+  <p style="margin-bottom:0"><b>Porkbun security features:</b></p>
   <ul style="margin-top:0">
     <li>Free WHOIS Privacy</li>
     <li>Free SSL Certificates issued by <a href="https://letsencrypt.org/">Let's Encrypt</a></li>
@@ -34,7 +34,7 @@
   </p>
 </div>
 <br>
-<h2 style="text-align:center">2. Secured Porkbun domain management with a passkey in Bitwarden password manager.</h2>
+<h2 style="text-align:center">2. Secured Porkbun account with a passkey in Bitwarden password manager.</h2>
 <p style="text-align:center"><a href="https://bitwarden.com/">Bitwarden.com</a></p>
 <div style="text-align:center">
   <img src="/images/portfolio/port2.png" alt="Porkbun passkey">
@@ -47,7 +47,7 @@
 </div>
 <br>
 <div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
-  <h4 style="margin-bottom:0">Cloudflare DNS security features:</h4>
+  <p style="margin-bottom:0"><b>Cloudflare DNS security features:</b></p>
   <ul style="margin-top:0">
     <li>Open source with regular third party audits</li>
     <li>Zero-knowledge end-to-end AES-256 bit encryption, salted hashing, and PBKDF2 SHA-256 authentication process</li>
@@ -65,6 +65,50 @@
   <a href="https://simplelogin.io/">What is an email alias?</a><br>
   </p>
 </div>
+
+<h2 style="text-align:center">3. Registered a developer account with Cloudflare.</h2>
+
+<h2 style="text-align:center">4. Secured Cloudflare account with a passkey in Bitwarden.</h2>
+
+<h2 style="text-align:center">5. Set DNS nameservers to Cloudflare in Porkbun domain management.</h2>
+
+<h2 style="text-align:center">6. Configured email routing with custom domain in Cloudflare.</h2>
+
+<h2 style="text-align:center">7. Configured basic security and speed settings in Cloudflare.</h2>
+
+<h2 style="text-align:center">8. Set TLS encryption mode to "Full (strict)" in Cloudflare.</h2>
+
+<h2 style="text-align:center">9. Reviewed security settings along the traffic sequence as it proxies through Cloudflare.</h2>
+
+<h2 style="text-align:center">10. Set up a developer environment for the project.</h2>
+
+<h2 style="text-align:center">11. Installed Hugo and dependencies.</h2>
+
+<h2 style="text-align:center">12. Initialized Hugo website, installed theme as a git submodule.</h2>
+
+<h2 style="text-align:center">13. Customized and added content to website.</h2>
+
+<h2 style="text-align:center">14. Created a repository for the project in GitHub.
+
+<h2 style="text-align:center">15. Secured GitHub account with a passkey in Bitwarden.</h2>
+
+<h2 style="text-align:center">16. Integrated GitHub repository with Cloudflare Pages.</h2>
+
+<h2 style="text-align:center">17. Created Cloudflare Worker to push website from GitHub repository to Cloudflare Pages static web hosting.</h2>
+
+<h2 style="text-align:center">18. Set custom DNS records for Cloudflare Pages website in Cloudflare.</h2>
+
+<h2 style="text-align:center">19. Ran a speed test in Cloudflare Observatory.</h2>
+
+<h2 style="text-align:center"></h2>
+
+
+
+
+
+
+
+
 
 ### 3. **Registered a developer account with [Cloudflare.com](https://www.cloudflare.com/developer-platform/).**
 
