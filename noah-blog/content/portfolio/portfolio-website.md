@@ -1,10 +1,30 @@
+<style>
+.container {
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.content {
+    width: 100%;
+    object-fit: cover;
+}
+</style>
+
 ### 1. Register a custom domain with **[Porkbun.com](https://porkbun.com/)**.
 
-<div style="float: left">
-<img src="/images/portfolio/port4.png" alt="Porkbun tools">
-</div>
 
-*Porkbun tools*
+<div class="container">
+  <div class="content">
+    <img src="/images/portfolio/port4.png" alt="Porkbun tools">
+    <p><i>Porkbun tools</i></p>
+  </div>
+  <div class="content">
+    <img src="/images/portfolio/port5.png" alt="Porkbun features">
+    <p><i>Porkbun features</i></p>
+  </div>
+</div>
 
 ![Porkbun features](/images/portfolio/port5.png)
 *Porkbun features*
