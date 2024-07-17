@@ -26,10 +26,12 @@
 </div>
 <br>
 <div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p>
   <a href="https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/">What is a domain name?</a>
   <a href="https://porkbun.com/products/whois_privacy">What is WHOIS privacy?</a>
   <a href="https://letsencrypt.org/how-it-works/">What is an SSL certificate?</a>
   <a href="https://www.cloudflare.com/learning/dns/what-is-dns/">What is DNS?</a>
+  </p>
 </div>
 
 ### 2. **Secured Porkbun domain management with a passkey in Bitwarden password manager.**
