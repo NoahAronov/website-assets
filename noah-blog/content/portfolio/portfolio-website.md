@@ -1,4 +1,12 @@
++++
+title = "Portfolio Website with WAF and CI/CD"
+description = "Uses Porkbun, GitHub, and Cloudflare for DNS, web security, and CI/CD. Uses Hugo, Anatole, terminalCV, and Lynx for static site generation."
+aliases = ["portfolio-website"]
++++
+
 # <!-- STEP ONE -->  
+<h1 style="text-align:center">PORTFOLIO WEBSITE WITH WEB SECURITY AND CI/CD</h1>
+<br>
 <h2 style="text-align:center">1. Registered a custom domain with Porkbun.</h2>
 <p style="text-align:center"><a href="https://porkbun.com/">Porkbun.com</a></p>
 <div style="text-align:center">
@@ -55,7 +63,7 @@
 </div>
 <br>
 <div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
-  <p style="margin-bottom:0"><b>Cloudflare DNS security features:</b></p>
+  <p style="margin-bottom:0"><b>Bitwarden security features:</b></p>
   <ul style="margin-top:0">
     <li>Open source with regular third party audits</li>
     <li>Zero-knowledge end-to-end AES-256 bit encryption, salted hashing, and PBKDF2 SHA-256 authentication process</li>
@@ -73,6 +81,7 @@
   <a href="https://simplelogin.io/">What is an email alias?</a><br>
   </p>
 </div>
+<br>
 
 
 <!-- STEP THREE -->
@@ -102,7 +111,6 @@
 
 <!-- STEP FOUR -->
 <h2 style="text-align:center">4. Secured Cloudflare account with a passkey in Bitwarden.</h2>
-
 <div style="text-align:center">
   <img src="/images/portfolio/port12.png" alt="Passkey in Cloudflare">
   <p><i>Passkey in Cloudflare</i></p>
