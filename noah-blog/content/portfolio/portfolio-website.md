@@ -5,23 +5,28 @@
     justify-content: center;
     align-items: center;
     align-content: center;
+    text-align: center;
 }
 .content {
-    width: 100%;
+    max-width: 100%;
     object-fit: cover;
+    margin: auto;
 }
 </style>
 
 ### 1. Register a custom domain with **[Porkbun.com](https://porkbun.com/)**.
 
-
 <div class="container">
   <div class="content">
     <img src="/images/portfolio/port4.png" alt="Porkbun tools">
+    <br />
     <p><i>Porkbun tools</i></p>
   </div>
+</div>
+<div class="container">
   <div class="content">
     <img src="/images/portfolio/port5.png" alt="Porkbun features">
+    <br />
     <p><i>Porkbun features</i></p>
   </div>
 </div>
