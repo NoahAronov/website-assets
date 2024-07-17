@@ -1,12 +1,18 @@
 ### 1. Registered a custom domain with **[Porkbun.com](https://porkbun.com/)**.
+<style>
+    * {
+        text-align: center;
+    }
 
-<h3 style="text-align:center">Registered a custom domain with <a href="https://porkbun.com/">Porkbun.com</a></h3>
+</style>
+<h3 style="text-align:center">1. Registered a custom domain with Porkbun.</h3>
+<p style="text-align:center"><a href="https://porkbun.com/">Porkbun.com</a></p>
 <div style="text-align:center">
   <img src="/images/portfolio/port4.png" alt="Porkbun tools">
   <p><i>Porkbun tools</i></p>
 </div>
 <br />
-<div style="text-align:center">
+<div>
   <img src="/images/portfolio/port5.png" alt="Porkbun features">
   <p><i>Porkbun features</i></p>
 </div>
