@@ -162,3 +162,10 @@ pygmentsCodefencesGuessSyntax = true
     weight = 430
     url = "/resume/"
     parent = "profile"
+
+[markup]
+
+  [markup.goldmark]
+  
+    [markup.goldmark.renderer]
+      unsafe = true
