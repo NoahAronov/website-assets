@@ -1,11 +1,6 @@
-+++
-title = "Portfolio Website with WAF and CI/CD"
-description = "Uses Porkbun, GitHub, and Cloudflare for DNS, web security, and CI/CD. Uses Hugo, Anatole, terminalCV, and Lynx for static site generation."
-aliases = ["portfolio-website"]
-+++
 
 # <!-- STEP ONE -->  
-<h1 style="text-align:center">PORTFOLIO WEBSITE WITH WEB SECURITY AND CI/CD</h1>
+<h1 style="text-align:center">Portfolio Website with WAF and CI/CD</h1>
 <br>
 <h2 style="text-align:center">1. Registered a custom domain with Porkbun.</h2>
 <p style="text-align:center"><a href="https://porkbun.com/">Porkbun.com</a></p>
