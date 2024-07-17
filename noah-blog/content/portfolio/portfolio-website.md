@@ -1,5 +1,5 @@
 # <!-- test -->  
-<h3 style="text-align:center">1. Registered a custom domain with Porkbun.</h3>
+<h2 style="text-align:center">1. Registered a custom domain with Porkbun.</h2>
 <p style="text-align:center"><a href="https://porkbun.com/">Porkbun.com</a></p>
 <div style="text-align:center">
   <img src="/images/portfolio/port4.png" alt="Porkbun tools">
@@ -33,25 +33,38 @@
   <a href="https://www.cloudflare.com/learning/dns/what-is-dns/">What is DNS?</a><br>
   </p>
 </div>
-
-### 2. **Secured Porkbun domain management with a passkey in Bitwarden password manager.**
-
-![Porkbun passkey](/images/portfolio/port2.png)
-*Passkey in Porkbun*
-
-![Passkey in Bitwarden](/images/portfolio/port3.png)
-*Passkey in Bitwarden*
-
-[What is a passkey?](https://bitwarden.com/passwordless-passkeys/)
-[What is a password manager?](https://bitwarden.com/products/)
-
-Bitwarden security features:
-- Open source with regular third party audits
-- Zero-knowledge end-to-end AES-256 bit encryption, salted hashing, and PBKDF2 SHA-256 authentication process
-- Compliant with GDPR, SOC 2, HIPAA, Privacy Shield, and CCPA standards
-- Passkey storage and management
-- Email alias integration
-- Data breach reports
+<br>
+<h2 style="text-align:center">2. Secured Porkbun domain management with a passkey in Bitwarden password manager.</h2>
+<p style="text-align:center"><a href="https://bitwarden.com/">Bitwarden.com</a></p>
+<div style="text-align:center">
+  <img src="/images/portfolio/port2.png" alt="Porkbun passkey">
+  <p><i>Passkey in Porkbun</i></p>
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port3.png" alt="Passkey in Bitwarden">
+  <p><i>Passkey in Bitwarden</i></p>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <h4 style="margin-bottom:0">Cloudflare DNS security features:</h4>
+  <ul style="margin-top:0">
+    <li>Open source with regular third party audits</li>
+    <li>Zero-knowledge end-to-end AES-256 bit encryption, salted hashing, and PBKDF2 SHA-256 authentication process</li>
+    <li>Compliant with GDPR, SOC 2, HIPAA, Privacy Shield, and CCPA standards</li>
+    <li>Passkey storage and management</li>
+    <li>Email alias integration</li>
+    <li>Data breach reports</li>
+  </ul>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p>
+  <a href="https://bitwarden.com/passwordless-passkeys/">What is a passkey?</a><br>
+  <a href="https://bitwarden.com/products/">What is a password manager?</a><br>
+  <a href="https://simplelogin.io/">What is an email alias?</a><br>
+  </p>
+</div>
 
 ### 3. **Registered a developer account with [Cloudflare.com](https://www.cloudflare.com/developer-platform/).**
 
