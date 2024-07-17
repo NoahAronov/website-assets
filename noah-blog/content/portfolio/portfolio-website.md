@@ -1,6 +1,6 @@
-### 1. Register a domain with **[Porkbun.com](https://porkbun.com/)**.
+### 1. Register a custom domain with **[Porkbun.com](https://porkbun.com/)**.
 
-<div style="text-align:left">
+<div style="text-align: left">
 <img src="/images/portfolio/port4.png" alt="Porkbun tools">
 </div>
 
