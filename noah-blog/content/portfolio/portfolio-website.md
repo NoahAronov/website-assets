@@ -1,7 +1,8 @@
 ### 1. **Register a domain with [Porkbun.com](https://porkbun.com/).**
 
 ![Porkbun tools](/images/portfolio/port4.png)
-<div align="center">*Porkbun tools*</div>
+
+<p align="center">Porkbun tools</p>
 
 ![Porkbun features](/images/portfolio/port5.png)
 *Porkbun features*
