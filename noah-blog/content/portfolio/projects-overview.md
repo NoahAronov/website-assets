@@ -1,5 +1,4 @@
 +++
-title = "Projects Overview"
 description = "Projects Overview"
 aliases = ["projects-overview"]
 +++

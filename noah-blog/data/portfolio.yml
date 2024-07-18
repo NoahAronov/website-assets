@@ -5,7 +5,7 @@ portfolioitems:
     portfolioitem:
       - name: Home Lab Overview
         image: '/images/portfolio/code.jpg'
-        link: https://noahsec.pro/homelab-overview
+        link: https://noahsec.pro/portfolio/homelab-overview
         linktext: 'View more details'
         description: 'Summary of full Home Lab.'
         #tags:
@@ -23,7 +23,7 @@ portfolioitems:
     portfolioitem:
       - name: Projects Overview
         image: '/images/portfolio/code.jpg'
-        link: https://noahsec.pro/projects-overview
+        link: https://noahsec.pro/portfolio/projects-overview
         linktext: 'View more details'
         description: 'Summary of all projects.'
         #tags:
