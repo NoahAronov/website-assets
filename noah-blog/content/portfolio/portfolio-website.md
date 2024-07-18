@@ -289,7 +289,6 @@
     <li>Network-layer DDoS attack protection: Automatic mitigation of network-layer<br> 
     DDoS attacks such as ACK floods, SYN-ACK amplification attacks, UDP attacks,<br> 
     ICMP attacks and DDoS attacks launched by botnets such as Mirai.</li>
-    <li></li>
   </ul>
 </div>
 <br>
@@ -337,8 +336,33 @@
 <br>
 
 
-<!-- STEP FOUR -->
+<!-- STEP TEN -->
 <h2 style="text-align:center">10. Set up a developer environment for the project.</h2>
+<div style="text-align:center">
+  <img src="/images/portfolio/port26.png" alt="Traffic sequence">
+  <p><i>Traffic sequence</i></p>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p style="margin-bottom:0"><b>Cloudflare WAF security features:</b></p>
+  <ul style="margin-top:0">
+    <li><a href="https://en.wikipedia.org/wiki/Windows_10">Windows 10</a>: host operating system</li>
+    <li><a href="https://learn.microsoft.com/en-us/windows/wsl/about">WSL2</a>: runs linux kernel in Windows</li>
+    <li><a href="https://www.debian.org/">Debian 12</a>: linux operating system in WSL2</li>
+    <li><a href="https://floorp.app/">Floorp</a>: security focused browser based on Firefox</li>
+    <li><a href="https://obsidian.md/">Obsidian</a>: note taking app using markdown</li>
+    <li><a href="https://github.com/apps/desktop">GitHub Desktop</a>: GitHub GUI client</li>
+    <li><a href="https://www.sublimetext.com/">Sublime</a>: text editor</li>
+    <li><a href="https://code.visualstudio.com/">VS Code</a>: integrated developer environment</li>
+    <li><a href="https://tabby.sh/">Tabby</a>: SSH and local terminal with secrets management</li>
+    <li><a href="https://www.zsh.org/">zsh</a>: interactive command shell</li>
+    <li><a href="https://starship.rs/">Starship</a>: blazing fast prompt for any shell</li>
+    <li><a href="https://phoenixnap.com/kb/nala-apt">nala</a>: frontend for APT package manager</li>
+    <li><a href="https://packages.debian.org/git">git</a>: git command line tool</li>
+    <li><a href="https://cli.github.com/">gh</a>: github command line tool</li>
+  </ul>
+</div>
+<br>
 
 
 <!-- STEP FOUR -->
