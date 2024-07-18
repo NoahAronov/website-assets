@@ -2,6 +2,14 @@
 # <!-- STEP ONE -->  
 <h1 style="text-align:center">Portfolio Website with WAF and CI/CD</h1>
 <br>
+
+---
+
+*Uses Porkbun, Cloudflare, and GitHub for DNS, web security, and CI/CD. Uses Hugo, Anatole, terminalCV, and Lynx for static site generation. Uses email routing, passkeys, and a web application firewall (WAF). Uses HTML, CSS, Markdown, TOML, and YAML languages.*
+
+---
+
+<!-- STEP ONE --> 
 <h2 style="text-align:center">1. Registered a custom domain with Porkbun.</h2>
 <p style="text-align:center"><a href="https://porkbun.com/">Porkbun.com</a></p>
 <div style="text-align:center">
@@ -339,12 +347,12 @@
 <!-- STEP TEN -->
 <h2 style="text-align:center">10. Set up a developer environment for the project.</h2>
 <div style="text-align:center">
-  <img src="/images/portfolio/port26.png" alt="Traffic sequence">
-  <p><i>Traffic sequence</i></p>
+  <img src="/images/portfolio/port26.png" alt="Developer environment">
+  <p><i>Developer environment</i></p>
 </div>
 <br>
 <div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
-  <p style="margin-bottom:0"><b>Cloudflare WAF security features:</b></p>
+  <p style="margin-bottom:0"><b>Components:</b></p>
   <ul style="margin-top:0">
     <li><a href="https://en.wikipedia.org/wiki/Windows_10">Windows 10</a>: host operating system</li>
     <li><a href="https://learn.microsoft.com/en-us/windows/wsl/about">WSL2</a>: runs linux kernel in Windows</li>
@@ -358,56 +366,138 @@
     <li><a href="https://www.zsh.org/">zsh</a>: interactive command shell</li>
     <li><a href="https://starship.rs/">Starship</a>: blazing fast prompt for any shell</li>
     <li><a href="https://phoenixnap.com/kb/nala-apt">nala</a>: frontend for APT package manager</li>
-    <li><a href="https://packages.debian.org/git">git</a>: git command line tool</li>
-    <li><a href="https://cli.github.com/">gh</a>: github command line tool</li>
+    <li><a href="https://packages.debian.org/git">git</a>: git CLI client</li>
+    <li><a href="https://cli.github.com/">gh</a>: github CLI client</li>
   </ul>
 </div>
 <br>
 
 
-<!-- STEP FOUR -->
+<!-- STEP ELEVEN -->
 <h2 style="text-align:center">11. Installed Hugo and dependencies.</h2>
+<div style="text-align:center">
+  <img src="/images/portfolio/port27.png" alt="Installing Hugo">
+  <p><i>Installing Hugo</i></p>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p>
+  <a href="https://www.cloudflare.com/learning/performance/static-site-generator/">What is a static site generator?</a><br>
+  </p>
+</div>
+<br>
 
 
-<!-- STEP FOUR -->
+<!-- STEP TWELVE -->
 <h2 style="text-align:center">12. Initialized Hugo website, installed theme as a git submodule.</h2>
+<div style="text-align:center">
+  <img src="/images/portfolio/port28.png" alt="Initialized Hugo website">
+  <p><i>Initialized Hugo website</i></p>
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port29.png" alt="Installed theme as submodule">
+  <p><i>Installed theme as submodule</i></p>
+</div>
+<br>
 
 
-<!-- STEP FOUR -->
+<!-- STEP THIRTEEN -->
 <h2 style="text-align:center">13. Customized and added content to website.</h2>
 
 
-<!-- STEP FOUR -->
+<!-- STEP FOURTEEN -->
 <h2 style="text-align:center">14. Created a repository for the project in GitHub.
+<div style="text-align:center">
+  <img src="/images/portfolio/port30.png" alt="Website repositories">
+  <p><i>Website repositories</i></p>
+</div>
+<br>
 
 
-<!-- STEP FOUR -->
+<!-- STEP FIFTEEN -->
 <h2 style="text-align:center">15. Secured GitHub account with a passkey in Bitwarden.</h2>
+<div style="text-align:center">
+  <img src="/images/portfolio/port31.png" alt="Passkey in GitHub">
+  <p><i>Passkey in GitHub</i></p>
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port32.png" alt="Passkey in Bitwarden">
+  <p><i>Passkey in Bitwarden</i></p>
+</div>
+<br>
 
 
-<!-- STEP FOUR -->
-<h2 style="text-align:center">16. Integrated GitHub repository with Cloudflare Pages.</h2>
+<!-- STEP SIXTEEN -->
+<h2 style="text-align:center">16. Integrated GitHub repository with Cloudflare Pages static web hosting.</h2>
+<div style="text-align:center">
+  <img src="/images/portfolio/port33.png" alt="Cloudflare Pages in GitHub">
+  <p><i>Cloudflare Pages in GitHub</i></p>
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port34.png" alt="Cloudflare Pages">
+  <p><i>Cloudflare Pages</i></p>
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port35.png" alt="Cloudflare Pages features">
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port36.png" alt="Cloudflare Pages features">
+  <p><i>Cloudflare Pages features</i></p>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p>
+  <a href="https://developers.cloudflare.com/pages/framework-guides/deploy-anything/">What is a static web page?</a><br>
+  <a href="https://www.cloudflare.com/developer-platform/pages/">What is Cloudflare Pages?</a><br>
+  </p>
+</div>
+<br>
 
 
-<!-- STEP FOUR -->
-<h2 style="text-align:center">17. Created Cloudflare Worker serverless function to push website from GitHub repository to Cloudflare Pages static web hosting.</h2>
+<!-- STEP SEVENTEEN -->
+<h2 style="text-align:center">17. Created Cloudflare Worker serverless function to push website from GitHub repository to Cloudflare Pages.</h2>
+<div style="text-align:center">
+  <img src="/images/portfolio/port37.png" alt="Cloudflare Workers with automatic build">
+  <p><i>Cloudflare Workers with automatic build</i></p>
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port38.png" alt="Cloudflare Workers features">
+  <p><i>Cloudflare Workers features</i></p>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p>
+  <a href="https://www.cloudflare.com/learning/serverless/what-is-serverless/">What is a serverless function?</a><br>
+  <a href="https://www.cloudflare.com/developer-platform/workers/pages">What is Cloudflare Workers?</a><br>
+  </p>
+</div>
+<br>
 
 
-<!-- STEP FOUR -->
+<!-- STEP EIGHTEEN -->
 <h2 style="text-align:center">18. Set custom DNS records for Cloudflare Pages website in Cloudflare.</h2>
+<div style="text-align:center">
+  <img src="/images/portfolio/port39.png" alt="Cloudflare Pages custom domain">
+  <p><i>Cloudflare Pages custom domain</i></p>
+</div>
+<br>
 
 
-<!-- STEP FOUR -->
+<!-- STEP NINETEEN -->
 <h2 style="text-align:center">19. Ran a speed test in Cloudflare Observatory.</h2>
+<div style="text-align:center">
+  <img src="/images/portfolio/port40.png" alt="Cloudflare Observatory speed test">
+  <p><i>Cloudflare Observatory speed test</i></p>
+</div>
+<br>
+
 
 <h2 style="text-align:center"></h2>
 
-<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
-  <p>
-  <a href="">What is a static web page?</a><br>
-  <a href="">What is Cloudflare Pages?</a><br>
-  <a href="">What is a serverless function?</a><br>
-  <a href="">What is Cloudflare Workers?</a><br>
-  </p>
-</div>
 

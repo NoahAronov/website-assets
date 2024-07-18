@@ -36,7 +36,7 @@ portfolioitems:
         image: '/images/portfolio/code.jpg'
         link: https://noahsec.pro/portfolio/portfolio-website
         linktext: 'View more details'
-        description: 'Uses Porkbun, GitHub, and Cloudflare for DNS, web security, and CI/CD. Uses Hugo, Anatole, terminalCV, and Lynx for static site generation. Uses email routing, passkeys, and a web access firewall (WAF).'
+        description: 'Uses Porkbun, Cloudflare, and GitHub for DNS, web security, and CI/CD. Uses Hugo, Anatole, terminalCV, and Lynx for static site generation. Uses email routing, passkeys, and a web application firewall (WAF). Uses HTML, CSS, Markdown, TOML, and YAML languages.'
         #tags:
          # - Tag 1
          # - Tag 2
