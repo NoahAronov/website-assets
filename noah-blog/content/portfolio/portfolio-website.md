@@ -19,7 +19,7 @@
   <ol>
     <li><a href="#1">Registered a custom domain with Porkbun.</a></li>
     <li><a href="#2">Secured Porkbun account with a passkey in Bitwarden password manager.</a></li>
-    <li><a href="#3">Registered a developer account with Cloudflare.</a></li>
+    <li><a href="#20">Registered a developer account with Cloudflare.</a></li>
     <li><a href="#4">Secured Cloudflare account with a passkey in Bitwarden.</a></li>
     <li><a href="#5">Set DNS nameservers to Cloudflare in Porkbun domain management.</a></li>
     <li><a href="#6">Configured email routing with custom domain in Cloudflare.</a></li>
@@ -119,7 +119,7 @@
 
 
 <!-- STEP THREE -->
-<h2 id="3" style="text-align:center">3. Registered a developer account with Cloudflare.</h2>
+<h2 id="20" style="text-align:center">3. Registered a developer account with Cloudflare.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port8.png" alt="Cloudflare Developer Platform">
   <p><i>Cloudflare Developer Platform</i></p>
