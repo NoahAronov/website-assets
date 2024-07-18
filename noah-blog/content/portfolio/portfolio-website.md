@@ -404,10 +404,11 @@
 
 <!-- STEP THIRTEEN -->
 <h2 style="text-align:center">13. Customized and added content to website.</h2>
+<br>
 
 
 <!-- STEP FOURTEEN -->
-<h2 style="text-align:center">14. Created a repository for the project in GitHub.
+<h2 style="text-align:center">14. Created a repository for the project in GitHub.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port30.png" alt="Website repositories">
   <p><i>Website repositories</i></p>
