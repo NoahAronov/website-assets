@@ -1,5 +1,10 @@
++++
+title = "Portfolio Website"
+description = "Portfolio Website"
+aliases = ["portfolio-website"]
++++
 
-# <!-- STEP ONE -->  
+# <!-- STEP zero -->  
 <h1 style="text-align:center">Portfolio Website with WAF and CI/CD</h1>
 <br>
 
