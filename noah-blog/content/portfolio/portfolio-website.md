@@ -5,12 +5,43 @@
 
 ---
 
-*Uses Porkbun, Cloudflare, and GitHub for DNS, web security, and CI/CD. Uses Hugo, Anatole, terminalCV, and Lynx for static site generation. Uses email routing, passkeys, and a web application firewall (WAF). Uses HTML, CSS, Markdown, TOML, and YAML languages.*
+*This project is a security portfolio website using a registered domain, custom DNS, a basic CI/CD pipeline, a static site generator, serverless functions, email routing, a developer environment, global CDN, load balancing, and numerous speed optimizations.*
+
+*Incorporates security features like multi factor authentication, passkeys, TLS encryption, SSL certificates, DDoS mitigation, web application firewall (WAF), CAPTCHA challenge, bot and AI security, email anti-phishing mitigation, role-based account control, 3-2-1 backups, and worldwide server failover.*
+
+*Uses Porkbun, Cloudflare, and GitHub services. Uses Hugo, Anatole, terminalCV, and Lynx for static site generation. Uses HTML, CSS, Markdown, TOML, and YAML languages.*
 
 ---
 
+<h2 style="text-align:center">Contents:</h2>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <ol>
+    <li><a href="#1">Registered a custom domain with Porkbun.</a></li>
+    <li><a href="#2">Secured Porkbun account with a passkey in Bitwarden password manager.</a></li>
+    <li><a href="#3">Registered a developer account with Cloudflare.</a></li>
+    <li><a href="#4">Secured Cloudflare account with a passkey in Bitwarden.</a></li>
+    <li><a href="#5">Set DNS nameservers to Cloudflare in Porkbun domain management.</a></li>
+    <li><a href="#6">Configured email routing with custom domain in Cloudflare.</a></li>
+    <li><a href="#7">Configured core security and speed settings in Cloudflare.</a></li>
+    <li><a href="#8">Set TLS encryption mode to "Full (strict)" in Cloudflare.</a></li>
+    <li><a href="#9">Reviewed security settings along the traffic sequence as it proxies through Cloudflare.</a></li>
+    <li><a href="#10">Set up a developer environment for the project.</a></li>
+    <li><a href="#11">Installed Hugo and dependencies.</a></li>
+    <li><a href="#12">Initialized Hugo website, installed theme as a git submodule.</a></li>
+    <li><a href="#13">Customized and added content to website.</a></li>
+    <li><a href="#14">Created a repository for the project in GitHub.</a></li>
+    <li><a href="#15">Secured GitHub account with a passkey in Bitwarden.</a></li>
+    <li><a href="#16">Integrated GitHub repository with Cloudflare Pages static web hosting.</a></li>
+    <li><a href="#17">Created Cloudflare Worker serverless function to push website from GitHub repository to Cloudflare Pages.</a></li>
+    <li><a href="#18">Set custom DNS records for Cloudflare Pages website in Cloudflare.</a></li>
+    <li><a href="#19">Ran a speed test in Cloudflare Observatory.</a></li>
+  </ol>
+</div>
+<br>
+
 <!-- STEP ONE --> 
-<h2 style="text-align:center">1. Registered a custom domain with Porkbun.</h2>
+<h2 id="1" style="text-align:center">1. Registered a custom domain with Porkbun.</h2>
 <p style="text-align:center"><a href="https://porkbun.com/">Porkbun.com</a></p>
 <div style="text-align:center">
   <img src="/images/portfolio/port4.png" alt="Porkbun tools">
@@ -48,7 +79,7 @@
 
 
 <!-- STEP TWO -->
-<h2 style="text-align:center">2. Secured Porkbun account with a passkey in Bitwarden password manager.</h2>
+<h2 id="2" style="text-align:center">2. Secured Porkbun account with a passkey in Bitwarden password manager.</h2>
 <p style="text-align:center"><a href="https://bitwarden.com/">Bitwarden.com</a></p>
 <div style="text-align:center">
   <img src="/images/portfolio/port7.png" alt="Bitwarden diagram">
@@ -88,7 +119,7 @@
 
 
 <!-- STEP THREE -->
-<h2 style="text-align:center">3. Registered a developer account with Cloudflare.</h2>
+<h2 id="3" style="text-align:center">3. Registered a developer account with Cloudflare.</h2>
 <p style="text-align:center"><a href="https://www.cloudflare.com/developer-platform/">Cloudflare.com</a></p>
 <div style="text-align:center">
   <img src="/images/portfolio/port8.png" alt="Cloudflare Developer Platform">
@@ -113,7 +144,7 @@
 
 
 <!-- STEP FOUR -->
-<h2 style="text-align:center">4. Secured Cloudflare account with a passkey in Bitwarden.</h2>
+<h2 id="4" style="text-align:center">4. Secured Cloudflare account with a passkey in Bitwarden.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port12.png" alt="Passkey in Cloudflare">
   <p><i>Passkey in Cloudflare</i></p>
@@ -127,7 +158,7 @@
 
 
 <!-- STEP FIVE -->
-<h2 style="text-align:center">5. Set DNS nameservers to Cloudflare in Porkbun domain management.</h2>
+<h2 id="5" style="text-align:center">5. Set DNS nameservers to Cloudflare in Porkbun domain management.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port14.png" alt="Porkbun authoritative nameservers">
   <p><i>Porkbun authoritative nameservers</i></p>
@@ -178,7 +209,7 @@
 
 
 <!-- STEP SIX -->
-<h2 style="text-align:center">6. Configured email routing with custom domain in Cloudflare.</h2>
+<h2 id="6" style="text-align:center">6. Configured email routing with custom domain in Cloudflare.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port15.png" alt="Cloudflare Email Routing">
   <p><i>Cloudflare Email Routing</i></p>
@@ -203,7 +234,7 @@
 
 
 <!-- STEP SEVEN -->
-<h2 style="text-align:center">7. Configured core security and speed settings in Cloudflare.</h2>
+<h2 id="7" style="text-align:center">7. Configured core security and speed settings in Cloudflare.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port19.png" alt="Core security and speed settings">
   <p><i>Core security and speed settings</i></p>
@@ -232,7 +263,7 @@
 
 
 <!-- STEP EIGHT -->
-<h2 style="text-align:center">8. Set TLS encryption mode to "Full (strict)" in Cloudflare.</h2>
+<h2 id="8" style="text-align:center">8. Set TLS encryption mode to "Full (strict)" in Cloudflare.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port20.png" alt="SSL/TLS encryption mode">
   <p><i>SSL/TLS encryption mode</i></p>
@@ -253,7 +284,7 @@
 
 
 <!-- STEP NINE -->
-<h2 style="text-align:center">9. Reviewed security settings along the traffic sequence as it proxies through Cloudflare.</h2>
+<h2 id="9" style="text-align:center">9. Reviewed security settings along the traffic sequence as it proxies through Cloudflare.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port21.png" alt="Traffic sequence">
   <p><i>Traffic sequence</i></p>
@@ -345,7 +376,7 @@
 
 
 <!-- STEP TEN -->
-<h2 style="text-align:center">10. Set up a developer environment for the project.</h2>
+<h2 id="10" style="text-align:center">10. Set up a developer environment for the project.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port26.png" alt="Developer environment">
   <p><i>Developer environment</i></p>
@@ -374,7 +405,7 @@
 
 
 <!-- STEP ELEVEN -->
-<h2 style="text-align:center">11. Installed Hugo and dependencies.</h2>
+<h2 id="11" style="text-align:center">11. Installed Hugo and dependencies.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port27.png" alt="Installing Hugo">
   <p><i>Installing Hugo</i></p>
@@ -389,7 +420,7 @@
 
 
 <!-- STEP TWELVE -->
-<h2 style="text-align:center">12. Initialized Hugo website, installed theme as a git submodule.</h2>
+<h2 id="12" style="text-align:center">12. Initialized Hugo website, installed theme as a git submodule.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port28.png" alt="Initialized Hugo website">
   <p><i>Initialized Hugo website</i></p>
@@ -403,12 +434,12 @@
 
 
 <!-- STEP THIRTEEN -->
-<h2 style="text-align:center">13. Customized and added content to website.</h2>
+<h2 id="13" style="text-align:center">13. Customized and added content to website.</h2>
 <br>
 
 
 <!-- STEP FOURTEEN -->
-<h2 style="text-align:center">14. Created a repository for the project in GitHub.</h2>
+<h2 id="14" style="text-align:center">14. Created a repository for the project in GitHub.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port30.png" alt="Website repositories">
   <p><i>Website repositories</i></p>
@@ -417,7 +448,7 @@
 
 
 <!-- STEP FIFTEEN -->
-<h2 style="text-align:center">15. Secured GitHub account with a passkey in Bitwarden.</h2>
+<h2 id="15" style="text-align:center">15. Secured GitHub account with a passkey in Bitwarden.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port31.png" alt="Passkey in GitHub">
   <p><i>Passkey in GitHub</i></p>
@@ -431,7 +462,7 @@
 
 
 <!-- STEP SIXTEEN -->
-<h2 style="text-align:center">16. Integrated GitHub repository with Cloudflare Pages static web hosting.</h2>
+<h2 id="16" style="text-align:center">16. Integrated GitHub repository with Cloudflare Pages static web hosting.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port33.png" alt="Cloudflare Pages in GitHub">
   <p><i>Cloudflare Pages in GitHub</i></p>
@@ -461,7 +492,7 @@
 
 
 <!-- STEP SEVENTEEN -->
-<h2 style="text-align:center">17. Created Cloudflare Worker serverless function to push website from GitHub repository to Cloudflare Pages.</h2>
+<h2 id="17" style="text-align:center">17. Created Cloudflare Worker serverless function to push website from GitHub repository to Cloudflare Pages.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port37.png" alt="Cloudflare Workers with automatic build">
   <p><i>Cloudflare Workers with automatic build</i></p>
@@ -482,7 +513,7 @@
 
 
 <!-- STEP EIGHTEEN -->
-<h2 style="text-align:center">18. Set custom DNS records for Cloudflare Pages website in Cloudflare.</h2>
+<h2 id="18" style="text-align:center">18. Set custom DNS records for Cloudflare Pages website in Cloudflare.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port39.png" alt="Cloudflare Pages custom domain">
   <p><i>Cloudflare Pages custom domain</i></p>
@@ -491,7 +522,7 @@
 
 
 <!-- STEP NINETEEN -->
-<h2 style="text-align:center">19. Ran a speed test in Cloudflare Observatory.</h2>
+<h2 id="19" style="text-align:center">19. Ran a speed test in Cloudflare Observatory.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port40.png" alt="Cloudflare Observatory speed test">
   <p><i>Cloudflare Observatory speed test</i></p>
