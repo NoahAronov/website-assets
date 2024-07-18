@@ -13,8 +13,8 @@
 
 ---
 
-<h2 style="text-align:center">Contents:</h2>
 <br>
+<h2 style="text-align:center">Contents:</h2>
 <div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
   <ol>
     <li><a href="#1">Registered a custom domain with Porkbun.</a></li>
@@ -120,6 +120,7 @@
 
 <!-- STEP THREE -->
 <h2 id="3" style="text-align:center">3. Registered a developer account with Cloudflare.</h2>
+<br>
 <p style="text-align:center"><a href="https://www.cloudflare.com/developer-platform/">Cloudflare.com</a></p>
 <div style="text-align:center">
   <img src="/images/portfolio/port8.png" alt="Cloudflare Developer Platform">
