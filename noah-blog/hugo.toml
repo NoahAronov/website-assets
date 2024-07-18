@@ -161,7 +161,7 @@ pygmentsCodefencesGuessSyntax = true
     identifier = "competitions"
     weight = 430
     url = "/competitions/"
-    parent = "education"  
+    parent = "profile"  
 
   [[menu.main]]
     name = "Organizations"
