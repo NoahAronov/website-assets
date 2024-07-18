@@ -140,7 +140,7 @@
   <p><i></i>Platform tools</p>
 </div>
 <br>
-<p style="text-align:center"><a href="https://www.cloudflare.com/developer-platform/">Cloudflare.com</a></p>
+<div style="text-align:center"><a href="https://www.cloudflare.com/developer-platform/">Cloudflare.com</a></div>
 <br>
 
 
