@@ -110,31 +110,31 @@ pygmentsCodefencesGuessSyntax = true
     parent = "education"
 
   [[menu.main]]
-    name = "Competitions"
-    identifier = "competitions"
-    weight = 330
-    url = "/competitions/"
-    parent = "education"
-
-  [[menu.main]]
     name = "Honors & Awards"
     identifier = "awards"
-    weight = 340
+    weight = 330
     url = "/awards/"
     parent = "education"  
 
   [[menu.main]]
     name = "Extra Courses"
     identifier = "courses"
-    weight = 350
+    weight = 340
     url = "/courses/"
     parent = "education"
 
   [[menu.main]]
     name = "Research Areas"
     identifier = "research"
-    weight = 360
+    weight = 350
     url = "/research/"
+    parent = "education"
+
+  [[menu.main]]
+    name = "Future Goals"
+    identifier = "goals"
+    weight = 360
+    url = "/goals/"
     parent = "education"
 
   [[menu.main]]
@@ -150,22 +150,36 @@ pygmentsCodefencesGuessSyntax = true
     parent = "profile"
 
   [[menu.main]]
+    name = "Accomplishments"
+    identifier = "accomplishments"
+    weight = 420
+    url = "/accomplishments/"
+    parent = "profile"
+
+  [[menu.main]]
+    name = "Competitions"
+    identifier = "competitions"
+    weight = 430
+    url = "/competitions/"
+    parent = "education"  
+
+  [[menu.main]]
     name = "Organizations"
     identifier = "organizations"
-    weight = 420
+    weight = 440
     url = "/organizations/"
     parent = "profile"
 
   [[menu.main]]
     name = "Resume"
     identifier = "resume"
-    weight = 430
+    weight = 450
     url = "/resume/"
     parent = "profile"
 
 [markup]
 
   [markup.goldmark]
-  
+
     [markup.goldmark.renderer]
       unsafe = true

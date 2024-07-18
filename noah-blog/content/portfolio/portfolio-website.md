@@ -120,14 +120,106 @@
 
 <!-- STEP FOUR -->
 <h2 style="text-align:center">5. Set DNS nameservers to Cloudflare in Porkbun domain management.</h2>
+<div style="text-align:center">
+  <img src="/images/portfolio/port14.png" alt="Porkbun authoritative nameservers">
+  <p><i>Porkbun authoritative nameservers</i></p>
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port17.png" alt="Cloudflare DNS">
+  <p><i>Cloudflare DNS</i></p>
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port18.png" alt="Cloudflare DNS protection">
+  <p><i>Cloudflare DNS protection</i></p>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p style="margin-bottom:0"><b>Cloudflare DNS security features:</b></p>
+  <ul style="margin-top:0">
+    <li>Unlimited and unmetered DDoS mitigation</li>
+    <li>Protection from route leaks and hijacking</li>
+    <li>Load balancing</li>
+    <li>Support for DNSSEC</li>
+    <li>Support for DNS over TLS (DoT)</li>
+    <li>CDN: redundancy across 320 cities</li>
+    <li>Email security DNS records: SPF, DKIM, DMARC</li>
+    <li>Advanced real-time DNS analytics</li>
+    <li>Cloudflare Universal SSL certificate</li>
+    <li>Cloudflare TLS encryption modes</li>
+    <li>Role-based account control</li>
+    <li>Simple bot mitigation</li>
+  </ul>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p>
+  <a href="https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/">What is DDoS?</a><br>
+  <a href="https://www.cloudflare.com/learning/security/glossary/bgp-hijacking/">What is BGP hijacking?</a><br>
+  <a href="https://www.cloudflare.com/learning/dns/dns-security/">What is DNSSEC?</a><br>
+  <a href="https://www.cloudflare.com/learning/dns/dns-over-tls/">What is DoT?</a><br>
+  <a href="https://www.cloudflare.com/learning/cdn/what-is-a-cdn/">What is CDN?</a><br>
+  <a href="https://www.cloudflare.com/learning/dns/dns-records/dns-spf-record/">What is SPF?</a><br>
+  <a href="https://www.cloudflare.com/learning/dns/dns-records/dns-dkim-record/">What is DKIM?</a><br>
+  <a href="https://www.cloudflare.com/learning/dns/dns-records/dns-dmarc-record/">What is DMARC?</a><br>
+  <a href="https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/">What is TLS?</a><br>
+  </p>
+</div>
+<br>
 
 
 <!-- STEP FOUR -->
 <h2 style="text-align:center">6. Configured email routing with custom domain in Cloudflare.</h2>
+<div style="text-align:center">
+  <img src="/images/portfolio/port15.png" alt="Cloudflare Email Routing">
+  <p><i>Cloudflare Email Routing</i></p>
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port16.png" alt="Email Routing set">
+  <p><i>Email Routing set</i></p>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p style="margin-bottom:0"><b>Cloudflare DNS security features:</b></p>
+  <ul style="margin-top:0">
+    <li>Email contents are not stored or accessed by Cloudflare</li>
+    <li>Anti-spam and phishing detection</li>
+    <li>Advanced real-time email analytics</li>
+    <li>Process emails with logic using Cloudflare Workers</li>
+    <li>Primary email address is not shared</li>
+  </ul>
+</div>
+<br>
 
 
 <!-- STEP FOUR -->
-<h2 style="text-align:center">7. Configured basic security and speed settings in Cloudflare.</h2>
+<h2 style="text-align:center">7. Configured core security and speed settings in Cloudflare.</h2>
+<div style="text-align:center">
+  <img src="/images/portfolio/port15.png" alt="Core security and speed settings">
+  <p><i>Core security and speed settings</i></p>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p style="margin-bottom:0"><b>Cloudflare core security and speed features:</b></p>
+  <ul style="margin-top:0">
+    <li><a href="https://developers.cloudflare.com/speed/optimization/protocol/http2-to-origin/">HTTP/2 to Origin</a>: Allow HTTP/2 requests between Cloudflare's edge and your origin to improve performance.</li>
+    <li><a href="https://developers.cloudflare.com/speed/optimization/protocol/http3/">HTTP/3 (with QUIC)</a>: Accelerate page loads by enabling visitors’ browsers and web servers to communicate as efficiently as possible.</li>
+    <li><a href="https://developers.cloudflare.com/speed/optimization/protocol/0-rtt-connection-resumption/">0-RTT Connection Resumption</a>: Improves site performance for previous site visitors.<br>
+    This most benefits end users who visit an application regularly or who use mobile networks.</li>
+    <li><a href="https://developers.cloudflare.com/ssl/edge-certificates/additional-options/always-use-https/">Always Use HTTPS</a>: Increase security by redirecting all your visitor requests from http to https.</li>
+    <li><a href="https://developers.cloudflare.com/ssl/edge-certificates/additional-options/tls-13/">TLS 1.3</a>: Secures communications and improves page load times.</li>
+    <li><a href="https://developers.cloudflare.com/rules/normalization/">Normalize incoming URLs</a>: Modifies the URLs of incoming requests so that they conform to a consistent formatting standard.</li>
+    <li><a href="https://developers.cloudflare.com/network/websockets/">WebSockets</a>: Protect WebSocket connections which increase connection speeds by enabling the client<br>
+    and the origin to pass data back and forth without having to reestablish sessions. </li>
+    <li><a href="https://developers.cloudflare.com/network/onion-routing/">Onion Routing</a>: Increases security by ensuring Tor network users can no longer access sites via exit nodes which can be compromised and helps only serve challenges to malicious bot traffic.</li>
+    <li><a href="https://developers.cloudflare.com/waf/tools/browser-integrity-check/">Browser Integrity Check</a>: Increases security by looking for common HTTP headers abused most commonly by spammers and denies access to your page.<br>
+    It also challenges visitors without a user agent or with a non-standard user agent such as commonly used by abusive bots, crawlers, or visitors.</li>
+    <li><a href="https://developers.cloudflare.com/waf/tools/scrape-shield/hotlink-protection/">Hotlink Protection</a>: Prevents your images from being used by other sites, which can reduce the bandwidth consumed by your origin server.</li>
+  </ul>
+</div>
+<br>
 
 
 <!-- STEP FOUR -->

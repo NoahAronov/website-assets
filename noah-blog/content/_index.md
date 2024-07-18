@@ -25,16 +25,20 @@ Check out Noah's [Terminal Resume](https://terminal.noahsec.pro/), a browser-bas
 
 6. [Certifications](https://noahsec.pro/certifications): *professional certifications and certificates.*
 
-7. [Competitions](https://noahsec.pro/competitions): *competitions, challenges, and capture-the-flags.*
+7. [Honors & Awards](https://noahsec.pro/awards): *honors and awards from school and universtiy.*
 
-8. [Honors](https://noahsec.pro/awards): *awards, honors, and accomplishments from school and universtiy.*
+8. [Extra Courses](https://noahsec.pro/courses): *courses and learning paths taken outside of university.*
 
-9. [Extra Courses](https://noahsec.pro/courses): *courses and learning paths taken outside of university.*
+9. [Research Areas](https://noahsec.pro/research): *research areas of interest related to security.*
 
-10. [Research Areas](https://noahsec.pro/research): *research areas of interest related to security.*
+10. [Future Goals](https://noahsec.pro/goals): *future offensive security academic and certification goals.*
 
 11. [Experience](https://noahsec.pro/experience): *professional and personal experience relevant to security.*
 
-12. [Organizations](https://noahsec.pro/organizations): *memberships and associations with professional organizations.*
+12. [Accomplishments](https://noahsec.pro/accomplishments): *professional and personal accomplishments relevant to security.*
 
-13. [Resume](https://noahsec.pro/resume): *full summary of experience and accomplishments.*
+13. [Competitions](https://noahsec.pro/competitions): *competitions, challenges, and capture-the-flags.*
+
+14. [Organizations](https://noahsec.pro/organizations): *memberships and associations with professional organizations.*
+
+15. [Resume](https://noahsec.pro/resume): *full summary of experience and accomplishments.*

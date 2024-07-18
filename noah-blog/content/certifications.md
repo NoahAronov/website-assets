@@ -6,7 +6,7 @@ aliases = ["certifications"]
 
 ---
 
-*Obtained during university studies and as extra achievements. Certifications are considered to be more rigorous and require a proctored exam or a hands-on lab. Certificates are considered to be less rigorous, typically with a non-proctored multiple-choice exam. Future certification goals for when budget allows, focused on offensive security. Listed in order of difficulty when possible.*
+*Obtained during university studies and as extra achievements. Certifications are considered to be more rigorous and require a proctored exam or a hands-on lab. Certificates are considered to be less rigorous, typically with a non-proctored multiple-choice exam. Listed in order of difficulty when possible.*
 
 ---
 
@@ -87,21 +87,3 @@ aliases = ["certifications"]
 16. [**BMEC**](https://lms.msicertified.com/store/3052441-business-management-essentials-certified-bmec-advanced), **Business Management Essentials Certified** — *MSI, 02/2023*
 
 17. [**PMEC**](https://www.msicertified.com/project-management/project-management-essentials-certified/), **Project Management Essentials Certified** — *MSI, 02/2023*
-
----
-
-### Future Goals
-
-1. [**CRTO**](https://training.zeropointsecurity.co.uk/courses/red-team-ops), **Certified Red Team Operator** — *Zero-Point Security, ~$500*
-
-2. [**CARTP**](https://www.alteredsecurity.com/azureadlab), **Certified Azure Red Team Professional** — *Altered Security, ~$450*
-
-3. [**PNPT**](https://certifications.tcm-sec.com/pnpt/), **Practical Network Penetration Tester** — *TCM Security, ~$400*
-
-4. [**PWPT**](https://certifications.tcm-sec.com/pwpt/), **Practical Web Penetration Tester** — *TCM Security, ~$400*
-
-5. [**PJIT**](https://certifications.tcm-sec.com/pjit/), **Practical Junior IoT Tester** — *TCM Security, ~$250*
-
-6. [**PJMT**](https://certifications.tcm-sec.com/pjmt/), **Practical Junior Mobile Tester** — *TCM Security, ~$250*
-
-7. [**PJMR**](https://certifications.tcm-sec.com/pjmt/), **Practical Junior Malware Researcher** — *TCM Security, ~$350*
