@@ -120,8 +120,6 @@
 
 <!-- STEP THREE -->
 <h2 id="3" style="text-align:center">3. Registered a developer account with Cloudflare.</h2>
-<br>
-<p style="text-align:center"><a href="https://www.cloudflare.com/developer-platform/">Cloudflare.com</a></p>
 <div style="text-align:center">
   <img src="/images/portfolio/port8.png" alt="Cloudflare Developer Platform">
   <p><i>Cloudflare Developer Platform</i></p>
@@ -141,6 +139,8 @@
   <img src="/images/portfolio/port10.png" alt="Platform tools">
   <p><i></i>Platform tools</p>
 </div>
+<br>
+<p style="text-align:center"><a href="https://www.cloudflare.com/developer-platform/">Cloudflare.com</a></p>
 <br>
 
 
