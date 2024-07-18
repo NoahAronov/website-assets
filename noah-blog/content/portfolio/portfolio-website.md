@@ -118,7 +118,7 @@
 <br>
 
 
-<!-- STEP FOUR -->
+<!-- STEP FIVE -->
 <h2 style="text-align:center">5. Set DNS nameservers to Cloudflare in Porkbun domain management.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port14.png" alt="Porkbun authoritative nameservers">
@@ -169,7 +169,7 @@
 <br>
 
 
-<!-- STEP FOUR -->
+<!-- STEP SIX -->
 <h2 style="text-align:center">6. Configured email routing with custom domain in Cloudflare.</h2>
 <div style="text-align:center">
   <img src="/images/portfolio/port15.png" alt="Cloudflare Email Routing">
@@ -182,7 +182,7 @@
 </div>
 <br>
 <div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
-  <p style="margin-bottom:0"><b>Cloudflare DNS security features:</b></p>
+  <p style="margin-bottom:0"><b>Cloudflare Email Routing security features:</b></p>
   <ul style="margin-top:0">
     <li>Email contents are not stored or accessed by Cloudflare</li>
     <li>Anti-spam and phishing detection</li>
@@ -194,10 +194,10 @@
 <br>
 
 
-<!-- STEP FOUR -->
+<!-- STEP SEVEN -->
 <h2 style="text-align:center">7. Configured core security and speed settings in Cloudflare.</h2>
 <div style="text-align:center">
-  <img src="/images/portfolio/port15.png" alt="Core security and speed settings">
+  <img src="/images/portfolio/port19.png" alt="Core security and speed settings">
   <p><i>Core security and speed settings</i></p>
 </div>
 <br>
@@ -213,7 +213,8 @@
     <li><a href="https://developers.cloudflare.com/rules/normalization/">Normalize incoming URLs</a>: Modifies the URLs of incoming requests so that they conform to a consistent formatting standard.</li>
     <li><a href="https://developers.cloudflare.com/network/websockets/">WebSockets</a>: Protect WebSocket connections which increase connection speeds by enabling the client<br>
     and the origin to pass data back and forth without having to reestablish sessions. </li>
-    <li><a href="https://developers.cloudflare.com/network/onion-routing/">Onion Routing</a>: Increases security by ensuring Tor network users can no longer access sites via exit nodes which can be compromised and helps only serve challenges to malicious bot traffic.</li>
+    <li><a href="https://developers.cloudflare.com/network/onion-routing/">Onion Routing</a>: Increases security by ensuring Tor network users can no longer access sites via exit nodes which can be<br>
+    compromised and helps only serve challenges to malicious bot traffic.</li>
     <li><a href="https://developers.cloudflare.com/waf/tools/browser-integrity-check/">Browser Integrity Check</a>: Increases security by looking for common HTTP headers abused most commonly by spammers and denies access to your page.<br>
     It also challenges visitors without a user agent or with a non-standard user agent such as commonly used by abusive bots, crawlers, or visitors.</li>
     <li><a href="https://developers.cloudflare.com/waf/tools/scrape-shield/hotlink-protection/">Hotlink Protection</a>: Prevents your images from being used by other sites, which can reduce the bandwidth consumed by your origin server.</li>
@@ -222,12 +223,118 @@
 <br>
 
 
-<!-- STEP FOUR -->
+<!-- STEP EIGHT -->
 <h2 style="text-align:center">8. Set TLS encryption mode to "Full (strict)" in Cloudflare.</h2>
+<div style="text-align:center">
+  <img src="/images/portfolio/port20.png" alt="SSL/TLS encryption mode">
+  <p><i>SSL/TLS encryption mode</i></p>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p style="margin-bottom:0"><b>Cloudflare SSL/TLS security features:</b></p>
+  <ul style="margin-top:0">
+    <li>Enable encryption end-to-end and enforce validation on origin certificates</li>
+    <li>Use Cloudflare’s Origin CA to generate certificates for your origin</li>
+    <li>SSL/TLS Recommender runs a periodic origin scan and sends you an email if a more secure option is possible</li>
+    <li>Customize different aspects of your edge certificates, from enabling Opportunistic Encryption to specifying a Minimum TLS Version</li>
+    <li>Authenticated origin pull: Ensure all requests to your origin server originate from the Cloudflare network</li>
+    <li>Set up alerts related to certificate validation status, issuance, deployment, renewal, and expiration</li>
+  </ul>
+</div>
+<br>
 
 
-<!-- STEP FOUR -->
+<!-- STEP NINE -->
 <h2 style="text-align:center">9. Reviewed security settings along the traffic sequence as it proxies through Cloudflare.</h2>
+<div style="text-align:center">
+  <img src="/images/portfolio/port21.png" alt="Traffic sequence">
+  <p><i>Traffic sequence</i></p>
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port22.png" alt="Cloudflare DDoS mitigation">
+  <p><i>Cloudflare DDoS mitigation</i></p>
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port23.png" alt="Traffic sequence with mitigation">
+  <p><i>Traffic sequence with mitigation</i></p>
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port24.png" alt="Bots security">
+  <p><i>Bots security</i></p>
+</div>
+<br>
+<div style="text-align:center">
+  <img src="/images/portfolio/port25.png" alt="Cloudflare WAF">
+  <p><i>Cloudflare WAF</i></p>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p style="margin-bottom:0"><b>Cloudflare DDoS security features:</b></p>
+  <ul style="margin-top:0">
+    <li>Automatic DDoS protection that constantly analyzes traffic and generates real-time<br>
+    signatures to mitigate attacks across the network and application layers</li>
+    <li>Cloudflare’s autonomous DDoS protection systems use a set of dynamic rules that<br>
+    scan for attack patterns, known attack tools, suspicious patterns, protocol violations,<br>
+    requests causing large amounts of origin errors, excessive traffic hitting the<br> 
+    origin/cache, and additional attack vectors.</li>
+    <li>HTTP DDoS attack protection: Ruleset managed by Cloudflare that automatically<br> 
+    mitigates HTTP-based DDoS attacks such as HTTP floods, amplification<br> 
+    HTTP attacks, and reflection HTTP attacks.</li>
+    <li>SSL/TLS DDoS attack protection: Automatic mitigation of SSL/TLS based DDoS<br> 
+    attacks and encryption-based attacks such as DDoS attacks, SSL exhaustion floods,<br> 
+    and SSL negotiation attacks.</li>
+    <li>Network-layer DDoS attack protection: Automatic mitigation of network-layer<br> 
+    DDoS attacks such as ACK floods, SYN-ACK amplification attacks, UDP attacks,<br> 
+    ICMP attacks and DDoS attacks launched by botnets such as Mirai.</li>
+    <li></li>
+  </ul>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p style="margin-bottom:0"><b>Cloudflare Rules features:</b></p>
+  <ul style="margin-top:0">
+    <li>Transform Rules: Adjust the URI path, query string, and HTTP headers of<br> 
+    requests and responses at the edge. Transformed traffic is then used as<br> 
+    input for other Cloudflare products.</li>
+    <li>Page Rules: Trigger certain actions whenever a request matches a defined URL pattern.</li>
+    <li>Origin Rules: Customize where matching traffic will go and with which parameters.<br> 
+    Allows host header, SNI, DNS record, and destination port overrides.</li>
+    <li>Cache Rules: Specify which resources should be cached and for how long.</li>
+    <li>Configuration Rules: Customize configuration settings for matching incoming requests.</li>
+    <li>Redirect Rules: Create rules to redirect visitors from a source URL to a target URL.</li>
+    <li>IP Access Rules: Can be based on IP address, IP address range, Autonomous<br> 
+    System Number (ASN) or country.</li>
+  </ul>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p style="margin-bottom:0"><b>Cloudflare Bots security features:</b></p>
+  <ul style="margin-top:0">
+    <li>Bot Fight Mode: Challenge requests that match patterns of known bots, before<br> 
+    they access your site. This feature includes JavaScript Detections.</li>
+    <li>Block AI Scrapers and Crawlers: Block bots from scraping your content for<br> 
+    AI applications like model training.</li>
+  </ul>
+</div>
+<br>
+<div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
+  <p style="margin-bottom:0"><b>Cloudflare WAF security features:</b></p>
+  <ul style="margin-top:0">
+    <li>The Cloudflare WAF runs on the Cloudflare global network and sits in front<br>
+    of web applications to stop a wide range of real-time attacks using powerful rulesets,<br> 
+    advanced rate limiting, exposed credential checks, uploaded content scanning,<br> 
+    and other security measures.</li>
+    <li>Managed ruleset providing mitigation against high profile vulnerabilities. </li>
+    <li>mTLS-enforced authentication: Block requests from devices without a<br> 
+    valid known client SSL/TLS certificate.</li>
+    <li>Zone lockdown: Allow only specific IP addresses to access certain URLs<br> 
+    such as an admin or protected area on your website.</li>
+  </ul>
+</div>
+<br>
 
 
 <!-- STEP FOUR -->
@@ -280,42 +387,3 @@
   </p>
 </div>
 
-
-
-
-
-
-
-### 3. **Registered a developer account with [Cloudflare.com](https://www.cloudflare.com/developer-platform/).**
-
-### 4. **Secure Cloudflare account with a passkey in Bitwarden.**
-
-### 5. **Set DNS nameservers to Cloudflare in Porkbun domain management.**
-
-Cloudflare DNS security features:
-- Unlimited and unmetered DDoS mitigation
-- Protection from route leaks and hijacking
-- Load balancing
-- Support for DNSSEC
-- Support for DNS over TLS (DoT)
-- CDN: redundancy across 320 cities
-- Email security: SPF, DKIM, DMARC
-- Advanced real-time DNS analytics
-- Cloudflare Universal SSL certificate
-- Cloudflare TLS encryption modes
-
-[What is DDoS?]()
-[What is BGP hijacking?](https://www.cloudflare.com/learning/security/glossary/bgp-hijacking/)
-[What is DNSSEC?](https://www.cloudflare.com/learning/dns/dns-security/)
-[What is DoT?](https://www.cloudflare.com/learning/dns/dns-over-tls/)
-[What is CDN?]()
-[What is SPF?]()
-[What is DKIM?]()
-[What is DMARC?]()
-[What is TLS?]()
-
-6. Configured email routing with custom domain in Cloudflare. 
-
-7. Configured settings for security and speed in Cloudflare.
-
-8. 
