@@ -1,5 +1,4 @@
 +++
-title = "Portfolio Website"
 description = "Portfolio Website"
 aliases = ["portfolio-website"]
 +++
