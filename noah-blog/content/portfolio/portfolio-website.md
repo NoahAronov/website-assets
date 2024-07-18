@@ -17,8 +17,8 @@
 <h2 style="text-align:center">Contents:</h2>
 <div style="text-align:left;display:flex;flex-direction:column;align-items:center;">
   <ol>
-    <li><a href="#1">Registered a custom domain with Porkbun.</a></li>
-    <li><a href="#2">Secured Porkbun account with a passkey in Bitwarden password manager.</a></li>
+    <li><a href="#22">Registered a custom domain with Porkbun.</a></li>
+    <li><a href="#21">Secured Porkbun account with a passkey in Bitwarden password manager.</a></li>
     <li><a href="#20">Registered a developer account with Cloudflare.</a></li>
     <li><a href="#4">Secured Cloudflare account with a passkey in Bitwarden.</a></li>
     <li><a href="#5">Set DNS nameservers to Cloudflare in Porkbun domain management.</a></li>
@@ -41,7 +41,7 @@
 <br>
 
 <!-- STEP ONE --> 
-<h2 id="1" style="text-align:center">1. Registered a custom domain with Porkbun.</h2>
+<h2 id="22" style="text-align:center">1. Registered a custom domain with Porkbun.</h2>
 <p style="text-align:center"><a href="https://porkbun.com/">Porkbun.com</a></p>
 <div style="text-align:center">
   <img src="/images/portfolio/port4.png" alt="Porkbun tools">
@@ -79,7 +79,7 @@
 
 
 <!-- STEP TWO -->
-<h2 id="2" style="text-align:center">2. Secured Porkbun account with a passkey in Bitwarden password manager.</h2>
+<h2 id="21" style="text-align:center">2. Secured Porkbun account with a passkey in Bitwarden password manager.</h2>
 <p style="text-align:center"><a href="https://bitwarden.com/">Bitwarden.com</a></p>
 <div style="text-align:center">
   <img src="/images/portfolio/port7.png" alt="Bitwarden diagram">
