@@ -26,7 +26,7 @@ pygmentsCodefencesGuessSyntax = true
   and accomplishments.
   """
   profilePicture = "images/author.jpg"
-  copyright = "Noah Aronov 2023-{{ YEAR }}"
+  #opyright = "Noah 2023-{{ YEAR }}"
   reversepagetitle = true
   mainSections = [""]
   hidesidebar = true
