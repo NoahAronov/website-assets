@@ -1,13 +1,14 @@
 +++
+title = "Portfolio Website"
 description = "Portfolio Website"
 aliases = ["portfolio-website"]
 +++
 
-# <!-- STEP zero -->  
+<!-- STEP zero  
 <h1 style="text-align:center">Portfolio Website with WAF and CI/CD</h1>
-<br>
+<br>-->
 
----
+--- 
 
 *This project is a security portfolio website using a registered domain, custom DNS, a basic CI/CD pipeline, a static site generator, serverless functions, email routing, a developer environment, global CDN, load balancing, and numerous speed optimizations.*
 
