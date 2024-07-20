@@ -40,17 +40,17 @@ portfolioitems:
         #tags:
          # - Tag 1
          # - Tag 2
-        status: 'Ongoing'
-        start: '2023'
-        end: '2024'
-      - name: Portfolio Website 2
-        image: '/images/portfolio/code.jpg'
-        link: https://noahsec.pro/
-        linktext: 'View more details'
-        description: 'Uses Hugo, Anatole, terminalCV, Lynx, and Cloudflare.'
+        #status: 'Ongoing'
+        #start: '2023'
+        #end: '2024'
+      #- #name: Portfolio Website 2
+        #image: '/images/portfolio/code.jpg'
+        #link: https://noahsec.pro/
+        #linktext: 'View more details'
+        #description: 'Uses Hugo, Anatole, terminalCV, Lynx, and Cloudflare.'
         #tags:
          # - Tag 1
          # - Tag 2
-        status: 'Ongoing'
-        start: '2023'
-        end: '2024'
+        #status: 'Ongoing'
+        #start: '2023'
+        #end: '2024'
