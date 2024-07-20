@@ -3,7 +3,7 @@ title = "Security Portfolio"
 alias = "about"
 +++
 
-Noah is a university student with experience in customer service, leading teams, and training team members. He has a learning background in information technology that spans across many specializations, and has experience troubleshooting abnormal glitches and misconfigurations. Noah has gone beyond the content taught with university classes and professional certifications, practicing the concepts and methods through labs and projects. Noah has also contributed to numerous cybersecurity communities, and has collaborated with peers to share his experience and guide others.
+Noah is a recent university graduate with experience in customer service, leading teams, and training team members. He has a learning background in information technology that spans across many specializations, and has experience troubleshooting abnormal glitches and misconfigurations. Noah has pushed further than the content taught with university classes and professional certifications by practicing the concepts and methods through labs and projects. Noah has also contributed to numerous cybersecurity communities, and has collaborated with peers to share his experience and guide others.
 
 ---
 
