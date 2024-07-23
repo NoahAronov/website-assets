@@ -18,7 +18,7 @@ aliases = ["goals"]
 2. [**BS**](https://www.wgu.edu/online-it-degrees/computer-science.html), **Bachelor of Science, Computer Science** — *Western Governors University* \
  [ABET](https://www.abet.org/accreditation/) accredited computing program.
 
-3. [**BAS**](https://online.arizona.edu/programs/undergraduate/online-bachelor-applied-science-cyber-operations-applied-science-bas), **Cyber Operations - Engineering** — ** \
+3. [**BAS**](https://online.arizona.edu/programs/undergraduate/online-bachelor-applied-science-cyber-operations-applied-science-bas), **Cyber Operations - Engineering** — *University of Arizona* \
  [National Center of Academic Excellence in Cyber Operations](https://online.arizona.edu/news/arizona-online-cyber-ops-program-earns-exclusive-nsa-designation) ([CAE-CO](https://caecommunity.org/about-us/what-cae-cybersecurity)), designation managed by [NSA's National Cryptologic School](https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/)
 
 4. [**MBA**](https://www.wgu.edu/online-business-degrees/mba-masters-business-administration-it-management-program.html), **Master of Business Administration, Information Technology Management** — *Western Governors University*
