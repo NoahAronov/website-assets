@@ -6,7 +6,7 @@ aliases = ["academics"]
 
 ---
 
-*Degrees and diplomas from schools and universities, education and training from academic and defense institutions, and continuing education from providers like Coursera. Listed from most recent to oldest.*
+*Degrees and diplomas from schools and universities, education and training from academic and defense institutions, professional training, and continuing education. Listed from most recent to oldest.*
 
 ---
 
@@ -37,6 +37,26 @@ aliases = ["academics"]
  Focus: Advanced Persistent Threats (APTs), Cyber Threat Intelligence (CTI)
 
 3. **Language and Culture Training, Russian** — *Foreign Language Center, Defense Language Institute, 2023*
+
+---
+
+### Professional Training
+
+1. **Threat Hunting - Level 1** — *Active Countermeasures, 2024*
+
+2. **Getting Started in Security with BHIS and MITRE ATT&CK** — *Antisyphon, 2024*
+
+3. **Active Defense and Cyber Deception** — *Antisyphon, 2024*
+
+4. **SOC Core Skills** — *Antisyphon, 2023*
+
+---
+
+### Udemy
+
+1. **Offensive Security Engineering** — *Casey Erdmann, 2024*
+
+2. **Ethical Hacking with Python** — *Zaid Sabih, 2024*
 
 ---
 
