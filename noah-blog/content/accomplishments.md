@@ -10,7 +10,7 @@ aliases = ["accomplishments"]
 
 ---
 
-1. After a period of self-guided learning, online labs, and a home lab, passed these certification exams in the same month (08/2023):
+1. After a period of self-guided learning, online labs, and a home lab, passed these foundational certification exams in the same month (08/2023):
  - CompTIA A+ (pt. I)
  - CompTIA A+ (pt. II)
  - CompTIA Network+
@@ -18,32 +18,56 @@ aliases = ["accomplishments"]
  - ISC2 Certified in Cybersecurity
  - ITILv4 Foundations
 
-2. Top 1% out of global players on TryHackMe.com.
+2. After a period of self-guided learning, online labs, and a home lab, passed these intermediate certification exams with one week of study each:
+ - ISC2 Systems Security Certified Practitioner
+ - CompTIA CySA+
+ - CompTIA PenTest+
 
-3. Received an excellence award from WGU for the final paper in the Communications course.
+3. Top 1% out of global players on TryHackMe.
 
-4. Received a scholarship from the College of Information Technology at WGU.
+4. Completed all learning paths (non-SOC) on TryHackMe.
 
-5. Participated in a hands-on workshop in satellite hacking with software-defined radio.
+5. Completed the Red Teaming capstone challenge on TryHackMe.
 
-6. Participated in a set of hands-on CTF challenges in prompt injection for large language models (LLMs).
+6. Received a scholarship from the College of Information Technology at WGU.
 
-7. Achieved a hands-on certification in multi-cloud red teaming, with AWS, GCP, and Azure.
+7. Received an excellence award from WGU for the final paper in the Communications course.
 
-8. Achieved a hands-on certification in practical OSINT for penetration testing and red teaming.
+8. Completed the capstone project for the BSCSIA degree at WGU.
 
-9. Completed Network Engineer and Security Engineer Microsoft Cloud Skills Challenges.
+9. Graduated from WGU with a Bachelor of Science, Cybersecurity and Information Assurance.
 
-10. Completed over 100 IT and cybersecurity courses outside of school and university from leading industry providers.
+10. Accepted as a graduate student at WGU for a Master of Science, Cybersecurity and Information Assurance.
 
-11. Completed over 250 IT and cybersecurity labs for hands-on practice.
+11. Participated in a hands-on workshop in satellite hacking with software-defined radio.
 
-12. Completed over 40 IT and cybersecurity certificates and certifications.
+12. Participated in a set of hands-on CTF challenges in prompt injection for large language models (LLMs).
 
-13. Hands-on experience with more than 10 programming, query, scripting, and configuration languages. HTML, CSS, JavaScript, Python, Bash, PowerShell, SQL, YAML, TOML, XML, Lua.
+13. Achieved a hands-on certification (MCRTA) in multi-cloud red teaming, with AWS, GCP, and Azure.
 
-14. Connected with over 1000 cybersecurity professionals on LinkedIn.
+14. Achieved a hands-on certification (PJOR) in practical OSINT for penetration testing and red teaming.
 
-15. Member of over 20 cybersecurity Discord servers.
+15. Hands-on experience with more than 10 programming, query, scripting, and configuration languages. HTML, CSS, JavaScript, Python, Bash, PowerShell, SQL, YAML, TOML, XML, Lua.
 
-16. Member of 10 professional cybersecurity organizations.
+16. Completed Network Engineer and Security Engineer Microsoft Cloud Skills Challenges.
+
+17. Completed over 100 IT and cybersecurity courses outside of school and university from leading industry providers.
+
+18. Completed over 250 IT and cybersecurity labs for hands-on practice.
+
+129. Completed over 40 IT and cybersecurity certificates and certifications.
+
+20. Connected with over 1000 cybersecurity professionals on LinkedIn.
+
+21. Member of over 20 cybersecurity Discord servers.
+
+22. Member of 10 professional cybersecurity organizations.
+
+
+
+
+
+
+
+
+
