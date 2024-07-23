@@ -50,6 +50,8 @@ aliases = ["academics"]
 
 4. **SOC Core Skills** — *Antisyphon, 2023*
 
+5. **Aerospace Cybersecurity - Satellite Hacking** — *Retia, 2023*
+
 ---
 
 ### Udemy
