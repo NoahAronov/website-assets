@@ -18,15 +18,16 @@ aliases = ["goals"]
 2. [**BS**](https://www.wgu.edu/online-it-degrees/computer-science.html), **Bachelor of Science, Computer Science** — *Western Governors University* \
  [ABET](https://www.abet.org/accreditation/) accredited computing program.
 
-3. [**MBA**](https://www.wgu.edu/online-business-degrees/mba-masters-business-administration-it-management-program.html), **Master of Business Administration, Information Technology Management** — *Western Governors University*
+3. [**BAS**](https://online.arizona.edu/programs/undergraduate/online-bachelor-applied-science-cyber-operations-applied-science-bas), **Cyber Operations - Engineering** — ** \
+ [National Center of Academic Excellence in Cyber Operations](https://online.arizona.edu/news/arizona-online-cyber-ops-program-earns-exclusive-nsa-designation) ([CAE-CO](https://caecommunity.org/about-us/what-cae-cybersecurity)), designation managed by [NSA's National Cryptologic School](https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/)
 
-4. [**ME**](https://engineering.tamu.edu/mtde/academics/degrees/graduate/mse-cybersecurity/index.html), **Master of Engineering, Cybersecurity** — *Texas A&M University*
+4. [**MBA**](https://www.wgu.edu/online-business-degrees/mba-masters-business-administration-it-management-program.html), **Master of Business Administration, Information Technology Management** — *Western Governors University*
 
-5. [**PGCert**](https://www.sans.edu/cyber-security-programs/graduate-certificate-engineering-core), **Graduate Certificate, Cybersecurity Engineering** — *SANS Technology Institute*
+5. [**ME**](https://engineering.tamu.edu/mtde/academics/degrees/graduate/mse-cybersecurity/index.html), **Master of Engineering, Cybersecurity** — *Texas A&M University*
 
-6. [**PGCert**](https://www.sans.edu/cyber-security-programs/graduate-certificate-penetration-testing), **Graduate Certificate, Penetration Testing and Ethical Hacking** — *SANS Technology Institute*
+6. [**PGCert**](https://www.sans.edu/cyber-security-programs/graduate-certificate-engineering-core), **Graduate Certificate, Cybersecurity Engineering** — *SANS Technology Institute*
 
-7. [**PGCert**](https://www.sans.edu/cyber-security-programs/graduate-certificate-purple-team/), **Graduate Certificate, Purple Team Operations** — *SANS Technology Institute*
+7. [**PGCert**](https://www.sans.edu/cyber-security-programs/graduate-certificate-penetration-testing), **Graduate Certificate, Penetration Testing and Ethical Hacking** — *SANS Technology Institute*
 
 8. [**DCS**](https://www.coloradotech.edu/degrees/doctorates/computer-science/cybersecurity-information-assurance), **Doctor of Computer Science, Cybersecurity and Information Assurance** — *Colorado Technical University*
 
