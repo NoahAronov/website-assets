@@ -25,9 +25,9 @@ aliases = ["goals"]
 
 5. [**ME**](https://engineering.tamu.edu/mtde/academics/degrees/graduate/mse-cybersecurity/index.html), **Master of Engineering, Cybersecurity** — *Texas A&M University*
 
-6. [**PGCert**](https://www.sans.edu/cyber-security-programs/graduate-certificate-engineering-core), **Graduate Certificate, Cybersecurity Engineering** — *SANS Technology Institute*
+6. [**PGCert**](https://www.sans.edu/cyber-security-programs/graduate-certificate-penetration-testing), **Graduate Certificate, Penetration Testing and Ethical Hacking** — *SANS Technology Institute*
 
-7. [**PGCert**](https://www.sans.edu/cyber-security-programs/graduate-certificate-penetration-testing), **Graduate Certificate, Penetration Testing and Ethical Hacking** — *SANS Technology Institute*
+7. [**PGCert**](https://www.sans.edu/cyber-security-programs/graduate-certificate-purple-team/), **Graduate Certificate, Purple Team Operations** — *SANS Technology Institute*
 
 8. [**DCS**](https://www.coloradotech.edu/degrees/doctorates/computer-science/cybersecurity-information-assurance), **Doctor of Computer Science, Cybersecurity and Information Assurance** — *Colorado Technical University*
 
