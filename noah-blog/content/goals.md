@@ -53,8 +53,20 @@ aliases = ["goals"]
 
 7. [**CRTO**](https://training.zeropointsecurity.co.uk/courses/red-team-ops), **Certified Red Team Operator** — *Zero-Point Security, ~$500*
 
-8. [**CARTP**](https://www.alteredsecurity.com/azureadlab), **Certified Azure Red Team Professional** — *Altered Security, ~$450*
+8. [**CRTP**](https://www.alteredsecurity.com/adlab), **Certified Red Team Professional** — *Altered Security, ~$500*
 
-9. [**OSIP**](https://www.inteltechniques.net/), **Open Source Intelligence Professional** — *IntelTechniques, ~$1000*
+9. [**CARTP**](https://www.alteredsecurity.com/azureadlab), **Certified Azure Red Team Professional** — *Altered Security, ~$450*
 
-10. [**CESE**](https://www.social-engineer.com/product/certified-ethical-social-engineer-certification/), **Certified Ethical Social Engineer** — *Social-Engineer, ~$1000*
+10. [**OASP**](https://cloudbreach.io/breachingazure/), **Offensive Azure Security Professional** — *CloudBreach, ~$1000*
+
+11. [**CACS**](https://www.exidacfse.com/About/CACE), **Certified Automation Cybersecurity Specialist** — *Exida, ~$700*
+
+12. [**OSIP**](https://www.inteltechniques.net/), **Open Source Intelligence Professional** — *IntelTechniques, ~$1000*
+
+13. [**CESE**](https://www.social-engineer.com/product/certified-ethical-social-engineer-certification/), **Certified Ethical Social Engineer** — *Social-Engineer, ~$1000*
+
+14. [**CEA**](https://shop.redteamalliance.com/products/certification-covert-entry-associate-independent-registration), **Covert Entry Associate** — *Red Team Alliance, ~$700*
+
+15. [**RTAC**](https://store.k54.com/products/red-team-apprentice-course-rtac-3), **Red Team Apprentice Operator** — *k>fivefour, ~$6500*
+
+16. [**CET**](https://www.isaca.org/credentialing/cet), **Certified in Emerging Technology** — *ISACA, ~$500*

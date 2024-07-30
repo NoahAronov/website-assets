@@ -12,7 +12,7 @@ aliases = ["organizations"]
 
 1. [**National Cybersecurity Student Association**](https://www.cyberstudents.org/) (**NCSA**) — *Participant*
 
-2. [**Western Governors University Cybersecurity Club**](https://www.wgu.edu/online-it-degrees/cyber-club.html) (**WGUCC**) — *Member*
+2. [**Western Governors University Cybersecurity Club**](https://www.wgu.edu/online-it-degrees/cyber-club.html) (**WGUCC**) — *Volunteer, Graphic Design*
 
 3. [**ISC2**](https://www.isc2.org/) — *Associate*
 

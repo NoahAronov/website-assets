@@ -3,13 +3,14 @@ title = "Security Portfolio"
 alias = "about"
 +++
 
-Noah is a recent university graduate with experience in customer service, leading teams, and training team members. He has a learning background in information technology that spans across many specializations, and has experience troubleshooting abnormal glitches and misconfigurations. Noah has pushed further than the content taught with university classes and professional certifications by practicing the concepts and methods through labs and projects. Noah has also contributed to numerous cybersecurity communities, and has collaborated with peers to share his experience and guide others.
+Noah is a recent university graduate focusing on security engineering and offensive security, with knowledge and experience across varied domains of technology. 
+Prior to starting as a university student, he had more than five years of experience in customer service and interaction, leading teams, and training team members. In hundreds of hours working on projects and his home lab, Noah has learned firsthand how to troubleshoot abnormal errors and misconfigurations that can take hours to properly overcome. He has also used these projects, online labs, and professional certifications to expand his skillset across multiple areas of both foundational and specialized cybersecurity. Noah plans to continue pursuing graduate education and advanced certifications in security to enhance and validate his experience. This website is for recording the many facets of his academic and professional profile. *Thank you for visiting!* 
 
 ---
 
-Check out Noah's [External Links](https://links.noahsec.pro/), a list of links to external portfolio and social media sites. \
-Check out Noah's [Terminal Resume](https://terminal.noahsec.pro/), an in-browser terminal emulator for exploring the resume using command-line prompts. \
-*This site is optimized for mobile devices, try it out!*
+Check out Noah's [External Links](https://links.noahsec.pro/), a list of links to external portfolio and social media sites.
+
+Check out Noah's [Terminal Resume](https://terminal.noahsec.pro/), an in-browser terminal emulator for exploring the resume using command-line prompts.
 
 ---
 

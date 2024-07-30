@@ -6,7 +6,7 @@ aliases = ["academics"]
 
 ---
 
-*Degrees and diplomas from schools and universities, education and training from academic and defense institutions, professional training, and continuing education. Listed from most recent to oldest.*
+*Degrees and diplomas from schools and universities, education and training from academic and defense institutions, professional training, and continuing education. Listed in order of newest to oldest.*
 
 ---
 
@@ -42,15 +42,29 @@ aliases = ["academics"]
 
 ### Professional Training
 
-1. **Threat Hunting - Level 1** — *Active Countermeasures, 2024*
+1. **Linux 101** — *TCM Security, 2024*
 
-2. **Getting Started in Security with BHIS and MITRE ATT&CK** — *Antisyphon, 2024*
+2. **Open-Source Intelligence (OSINT) Fundamentals** — *TCM Security, 2024*
 
-3. **Active Defense and Cyber Deception** — *Antisyphon, 2024*
+3. **Programming with AI** — *TCM Security, 2024*
 
-4. **SOC Core Skills** — *Antisyphon, 2023*
+4. **Practical Phishing Campaigns** — *TCM Security, 2024*
 
-5. **Aerospace Cybersecurity - Satellite Hacking** — *Retia, 2023*
+5. **Soft Skills for the Job Market** — *TCM Security, 2024*
+
+6. **Threat Hunting - Level 1** — *Active Countermeasures, 2024*
+
+7. **Getting Started in Security with BHIS and MITRE ATT&CK** — *Antisyphon, 2024*
+
+8. **Active Defense and Cyber Deception** — *Antisyphon, 2024*
+
+9. **SOC Core Skills** — *Antisyphon, 2023*
+
+10. **Aerospace Cybersecurity - Satellite Hacking** — *Retia, 2023*
+
+11. **Ethical Hacker** — *Cisco Networking Academy, 2023*
+
+12. **Jr. Cybersecurity Analyst** — *Cisco Networking Academy, 2023*
 
 ---
 

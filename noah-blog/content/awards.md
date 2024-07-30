@@ -10,15 +10,15 @@ aliases = ["awards"]
 
 ---
 
-1. (**OSSNHS**) [**The Order of the Sword and Shield National Honor Society, Omicron Sigma Sigma**](https://www.securityhonorsociety.org/) (**ΟΣΣ**) — *Western Governors University, 2024*
+ 1. (**OSSNHS**) [**The Order of the Sword and Shield National Honor Society, Omicron Sigma Sigma**](https://www.securityhonorsociety.org/) (**ΟΣΣ**) — *Western Governors University, 2024*
 
 2. **Excellence Award, Communication** — *Western Governors University, 2024*
 
 3. **College of IT Scholarship** — *Western Governors University, 2024*
 
-4. **Nevada Scholars Scholarship** — *University, Nevada (for incoming freshmen)*
+4. **Nevada Scholars Scholarship** — *University, Nevada (as high school graduate)*
 
-5. **Governor Kenny C. Guinn Millenium Scholarship** — *University, Nevada (for incoming freshmen)*
+5. **Governor Kenny C. Guinn Millenium Scholarship** — *University, Nevada (as high school graduate)*
 
 6. **National Honor Society** — *High School, Nevada*
 

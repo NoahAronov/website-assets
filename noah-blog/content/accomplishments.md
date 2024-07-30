@@ -25,44 +25,34 @@ aliases = ["accomplishments"]
 
 3. Top 1% out of global players on TryHackMe.
 
-4. Completed all learning paths (non-SOC) on TryHackMe.
+4. Received a scholarship from the College of Information Technology at WGU.
 
-5. Completed the Red Teaming capstone challenge on TryHackMe.
+5. Received an excellence award from WGU for the final paper in the Communications course.
 
-6. Received a scholarship from the College of Information Technology at WGU.
+6. Participated in a hands-on workshop in satellite hacking with software-defined radio.
 
-7. Received an excellence award from WGU for the final paper in the Communications course.
+7. Participated in a set of hands-on CTF challenges in prompt injection for large language models (LLMs).
 
-8. Completed the capstone project for the BSCSIA degree at WGU.
+8. Achieved a hands-on certification (MCRTA) in multi-cloud red teaming, with AWS, GCP, and Azure.
 
-9. Graduated from WGU with a Bachelor of Science, Cybersecurity and Information Assurance.
+9. Achieved a hands-on certification (PJOR) in practical OSINT for penetration testing and red teaming.
 
-10. Accepted as a graduate student at WGU for a Master of Science, Cybersecurity and Information Assurance.
+10. Hands-on experience with more than 10 programming, query, scripting, and configuration languages. \
+ HTML, CSS, JavaScript, Python, Bash, PowerShell, SQL, YAML, TOML, JSON, XML, Lua.
 
-11. Participated in a hands-on workshop in satellite hacking with software-defined radio.
+11. Completed *Network Engineer* and *Security Engineer* Microsoft Cloud Skills Challenges.
 
-12. Participated in a set of hands-on CTF challenges in prompt injection for large language models (LLMs).
+12. Completed over 100 IT and cybersecurity courses outside of school and university from leading industry providers.
 
-13. Achieved a hands-on certification (MCRTA) in multi-cloud red teaming, with AWS, GCP, and Azure.
+13. Completed over 250 IT and cybersecurity labs for hands-on practice.
 
-14. Achieved a hands-on certification (PJOR) in practical OSINT for penetration testing and red teaming.
+14. Completed over 40 IT and cybersecurity certificates and certifications.
 
-15. Hands-on experience with more than 10 programming, query, scripting, and configuration languages. HTML, CSS, JavaScript, Python, Bash, PowerShell, SQL, YAML, TOML, XML, Lua.
+15. Connected with over 1000 cybersecurity professionals on LinkedIn.
 
-16. Completed Network Engineer and Security Engineer Microsoft Cloud Skills Challenges.
+16. Member of over 20 cybersecurity Discord servers.
 
-17. Completed over 100 IT and cybersecurity courses outside of school and university from leading industry providers.
-
-18. Completed over 250 IT and cybersecurity labs for hands-on practice.
-
-129. Completed over 40 IT and cybersecurity certificates and certifications.
-
-20. Connected with over 1000 cybersecurity professionals on LinkedIn.
-
-21. Member of over 20 cybersecurity Discord servers.
-
-22. Member of 10 professional cybersecurity organizations.
-
+17. Member of 10 professional cybersecurity organizations.
 
 
 

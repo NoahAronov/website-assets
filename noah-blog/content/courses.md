@@ -6,7 +6,7 @@ aliases = ["courses"]
 
 ---
 
-*Coming Soon!*
+*Over 100 courses in IT and Cybersecurity, most with certificates of completion or badges for validation. Details coming soon!*
 
 ---
 
